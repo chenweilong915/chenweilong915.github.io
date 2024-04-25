@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Weilong Chen graduated from the Automation major at the University of Electronic Science and Technology of China in 2018 for his undergraduate degree, and in 2021 he obtained his Master's degree in Computer Science from the same university. Currently, he is a visiting scholar at the University of Houston under the supervision of Professor Han Zhu.
+I graduated from the Automation major at the University of Electronic Science and Technology of China in 2018 for my undergraduate degree, and in 2021 I obtained my Master's degree in Computer Science from the same university. Currently, I am a visiting scholar at the University of Houston under the supervision of Professor Han Zhu.
 
 My research interest includes AI in energy, Recommendation, and Multi-modal in machine learning. I have published 16 papers with total <a href='https://scholar.google.com/citations?user=ukaTvisAAAAJ'>google scholar citations <strong><span id='total_cit'>40+</span></strong></a> .
 
