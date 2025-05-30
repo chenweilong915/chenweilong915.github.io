@@ -17,16 +17,24 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I graduated from the Automation major at the University of Electronic Science and Technology of China in 2018 for my undergraduate degree, and in 2021 I obtained my Master's degree in Computer Science from the same university. I am currently pursuing the Ph.D. degree with the School of Computer Science and Engineering, UESTC. My research interests include machine learning, federated learning, and smart grid. I have published papers in top conferences such as ACM MM and journals such as TKDE, TSG, and TCSVT. I was a visiting scholar at the University of Houston under the supervision of Professor [Han Zhu](http://www2.egr.uh.edu/~zhan2/) during 2023-2024.
+I graduated from the Automation major at the University of Electronic Science and Technology of China (UESTC) in 2018 for my undergraduate degree, and in 2021 I obtained my Master's degree in Computer Science from the same university. I am currently pursuing the Ph.D. degree under the supervision of  [Prof. Yanru Zhang](https://scholar.google.com/citations?user=6I1ytegAAAAJ&hl=en) with the School of Computer Science and Engineering, UESTC. My research interests include machine learning, federated learning, large language model and smart grid. I have published papers in top conferences such as ACM MM and journals such as TKDE, TSG, and TCSVT. I was a visiting scholar at the University of Houston under the supervision of [Prof. Han Zhu](http://www2.egr.uh.edu/~zhan2/) during 2023-2024.
 
-My research interest includes AI in energy, Recommendation, and Multi-modal in machine learning. I have published 26 papers with total <a href='https://scholar.google.com/citations?user=ukaTvisAAAAJ'>google scholar citations <strong><span id='total_cit'>140+</span></strong></a> .
+My research interest includes AI in smart grid, Recommendation, and Multi-modal in machine learning. I have published 26 papers with total <a href='https://scholar.google.com/citations?user=ukaTvisAAAAJ'>google scholar citations <strong><span id='total_cit'>140+</span></strong></a> .
+
+# 🔍 Research
+My research interest currently focuses on:
+- Large Language Models in Smart grid applications
+- Multi-modal in Smart grid applications
+- Time series forecasting
 
 # 🔥 News
-* *2025.05*: &nbsp;🎉🎉 Our paper **"SocioDiff: A Socio-aware Diffusion Model for Residential Load Data Generation"** has been accepted by *IEEE Transactions on Smart Grid* (**🏆Top Journal, CAS Tier 1**)! [dataset and code](https://github.com/Intelligame/SocialDiff)
+* *2025.05*: &nbsp;🎉🎉 Our paper **"SocioDiff: A Socio-aware Diffusion Model for Residential Load Data Generation"** has been accepted by *IEEE Transactions on Smart Grid* (**🏆Top Journal, CAS Tier 1**)! [[dataset and code]](https://github.com/Intelligame/SocialDiff)
 
 - *2022.04*:  We have released a awesome repo named **[Awesome Energy LLM papers](https://github.com/chenweilong915/awesome_energy_LLM)**, focus on applications of LLMs in energy areas.
 
 # 📝 Publications 
+
+- *2025.05*: &nbsp;**Weilong Chen**, Xinru Liu, Xinran Zhang, Jian Shi, Han Yang, Zhu Han, and Yanru Zhang, **"[SocioDiff: A Socio-aware Diffusion Model for Residential Load Data Generation](https://github.com/Intelligame/SocialDiff)"**, *in IEEE Transactions on Smart Grid*, May. 2025. (**🏆Top Journal, CAS Tier 1**)
 
 - *2025.04*: &nbsp;Wenhao Hu, **Weilong Chen**, Weimin Yuan, Xiaolu Chen, Han Yang, Yanru Zhang, Zhu Han, **"[Feature Disentangling Dual-stream Network for User Bias Alleviation in Social Media Prediction](https://ieeexplore.ieee.org/abstract/document/10890121)"**, *ICASSP 2025 - 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, Hyderabad, India, 2025, pp. 1-5. (CCF B)
 
@@ -51,7 +59,7 @@ My research interest includes AI in energy, Recommendation, and Multi-modal in m
 
 - *2022.10*: &nbsp; **Weilong Chen**, Chenghao Huang, Weimin Yuan, Xiaolu Chen, Wenhao Hu, Xinran Zhang, Yanru Zhang, **"[Title-and-tag contrastive vision-and-language transformer for social media popularity prediction](https://dl.acm.org/doi/abs/10.1145/3503161.3551568)"**, *ACM MM 2022 - Proceedings of the 30th ACM International Conference on Multimedia*, Lisboa, Portugal, 2022, pp. 7008–7012. (🏆**CCF A**)
 
-
+- other papers can be found in [google scholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=ukaTvisAAAAJ)
 
 # 🎖 Honors and Awards
 
@@ -84,7 +92,7 @@ My research interest includes AI in energy, Recommendation, and Multi-modal in m
 
 # 💻 Work Experience
 
-- *2022.10 – 2023.09*, **Senior Algorithm Engineer**, TikTok (ByteDance), Shanghai, China  
+- *2022.10 – 2023.09*, **Senior Algorithm Engineer**, TikTok (ByteDance), Beijing, China  
   - Led end-to-end optimization for the CapCut recommendation chain; redesigned the ranking objective to fix underestimation issues, boosting DAU by **9.53%**.  
 
   - Optimized CapCut's fine-ranking model, increasing publishing volume by **0.42%** and per-user publishing count by **1.86%**.
