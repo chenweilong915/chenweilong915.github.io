@@ -55,7 +55,7 @@ My research interest currently focuses on:
 
 - *2023.10*: &nbsp; Xiaolu Chen, **Weilong Chen**, Chenghao Huang, Zhongjian Zhang, Lixin Duan, Yanru Zhang, **"[Double-Fine-Tuning Multi-Objective Vision-and-Language Transformer for Social Media Popularity Prediction](https://dl.acm.org/doi/abs/10.1145/3581783.3612845)"**, *ACM MM 2023 - Proceedings of the 31st ACM International Conference on Multimedia*, Ottawa ON, Canada, 2023, pp. 9462–9466. (🏆**CCF A**)
 
-- *2023.06*: &nbsp; Xinran Zhang, Zheng Chang, Tao Hu,**Weilong Chen**, Xin Zhang, Geyong Min, **"[Vehicle selection and resource allocation for federated learning-assisted vehicular network](https://ieeexplore.ieee.org/abstract/document/10559406)"**, *in IEEE Transactions on Mobile Computing, vol. 23, no. 5, pp. 3817-3829, May 2024. (**🏆Top Journal, CAS Tier 1**)
+- *2023.06*: &nbsp; Xinran Zhang, Zheng Chang, Tao Hu,**Weilong Chen**, Xin Zhang, Geyong Min, **"[Vehicle selection and resource allocation for federated learning-assisted vehicular network](https://ieeexplore.ieee.org/document/10144680)"**, *in IEEE Transactions on Mobile Computing, vol. 23, no. 5, pp. 3817-3829, May 2024. (**🏆Top Journal, CAS Tier 1**)
 
 - *2022.10*: &nbsp; **Weilong Chen**, Chenghao Huang, Weimin Yuan, Xiaolu Chen, Wenhao Hu, Xinran Zhang, Yanru Zhang, **"[Title-and-tag contrastive vision-and-language transformer for social media popularity prediction](https://dl.acm.org/doi/abs/10.1145/3503161.3551568)"**, *ACM MM 2022 - Proceedings of the 30th ACM International Conference on Multimedia*, Lisboa, Portugal, 2022, pp. 7008–7012. (🏆**CCF A**)
 
