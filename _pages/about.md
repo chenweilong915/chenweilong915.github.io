@@ -23,9 +23,9 @@ My research interest includes AI in smart grid, Recommendation, and Multi-modal 
 
 # 🔍 Research
 My research interest currently focuses on:
-- Large Language Models in Smart grid applications
-- Multi-modal in Smart grid applications
-- Time series forecasting
+- Social-related information analysis in smart grid applications
+- Multi-modal and Large Language Models in smart grid applications
+- Time series analysis
 
 # 🔥 News
 * *2025.05*: &nbsp;🎉🎉 Our paper **"SocioDiff: A Socio-aware Diffusion Model for Residential Load Data Generation"** has been accepted by *IEEE Transactions on Smart Grid* (**🏆Top Journal, CAS Tier 1**)! [[dataset and code]](https://github.com/Intelligame/SocialDiff)
