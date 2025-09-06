@@ -4,6 +4,7 @@ sitemap:
   exclude: 'yes'
 ---
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
@@ -91,29 +92,31 @@ sitemap:
     <priority>0.4</priority>
   </url>
 
-  <!-- 其他页面 / Other Pages -->
+  <!-- 只包含重要页面，排除CSS、重定向等技术文件 -->
   {% for page in site.pages %}
-    {% unless page.sitemap.exclude == "yes" or page.name == "404.html" %}
-      <url>
-        <loc>{{ site.url }}{{ page.url | remove: "index.html" }}</loc>
-        {% if page.sitemap.lastmod %}
-          <lastmod>{{ page.sitemap.lastmod | date_to_xmlschema }}</lastmod>
-        {% elsif page.date %}
-          <lastmod>{{ page.date | date_to_xmlschema }}</lastmod>
-        {% else %}
-          <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
-        {% endif %}
-        {% if page.sitemap.changefreq %}
-          <changefreq>{{ page.sitemap.changefreq }}</changefreq>
-        {% else %}
-          <changefreq>monthly</changefreq>
-        {% endif %}
-        {% if page.sitemap.priority %}
-          <priority>{{ page.sitemap.priority }}</priority>
-        {% else %}
-          <priority>0.5</priority>
-        {% endif %}
-      </url>
+    {% unless page.sitemap.exclude == "yes" or page.name == "404.html" or page.url contains ".css" or page.url contains ".json" or page.url contains ".xml" or page.url contains "redirects" %}
+      {% if page.url != "/" %}
+        <url>
+          <loc>{{ site.url }}{{ page.url | remove: "index.html" }}</loc>
+          {% if page.sitemap.lastmod %}
+            <lastmod>{{ page.sitemap.lastmod | date_to_xmlschema }}</lastmod>
+          {% elsif page.date %}
+            <lastmod>{{ page.date | date_to_xmlschema }}</lastmod>
+          {% else %}
+            <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
+          {% endif %}
+          {% if page.sitemap.changefreq %}
+            <changefreq>{{ page.sitemap.changefreq }}</changefreq>
+          {% else %}
+            <changefreq>monthly</changefreq>
+          {% endif %}
+          {% if page.sitemap.priority %}
+            <priority>{{ page.sitemap.priority }}</priority>
+          {% else %}
+            <priority>0.5</priority>
+          {% endif %}
+        </url>
+      {% endif %}
     {% endunless %}
   {% endfor %}
 

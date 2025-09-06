@@ -50,19 +50,67 @@
 ### Google Search Console
 1. 访问 [Google Search Console](https://search.google.com/search-console)
 2. 添加您的网站：`chenweilong915.github.io`
-3. 验证所有权（推荐使用 HTML 标签方法）
+3. 验证所有权（✅ 已完成HTML文件验证：`googlec68b99088a216484.html`）
 4. 提交 sitemap：`https://chenweilong915.github.io/sitemap.xml`
+
+**📝 提交sitemap的具体步骤：**
+- 在左侧菜单点击"站点地图"
+- 点击"添加新的站点地图"
+- 在输入框中填写：`sitemap.xml`
+- 点击"提交"
+
+**🔍 验证sitemap是否生效：**
+- 访问：https://chenweilong915.github.io/sitemap.xml
+- 确认能看到XML格式的站点地图内容
+- ✅ **正常显示**：您看到的内容是正确的，包含了所有重要页面链接
+- 🎨 **美化显示**：现已添加XSL样式表，sitemap在浏览器中会显示得更美观
+
+**📋 sitemap包含的页面类型：**
+- 🏠 主页 (priority: 1.0)
+- 👨‍💼 个人简介 (#about-me, priority: 0.9)
+- 🎓 教育经历 (#educations, priority: 0.8)
+- 🔬 研究方向 (#research, priority: 0.9)
+- 📰 最新动态 (#news, priority: 0.8)
+- 🏆 荣誉奖项 (#honors-and-awards, priority: 0.7)
+- 💼 工作经历 (#work-experience, priority: 0.7)
+- 🎤 受邀报告 (#invited-talks, priority: 0.6)
+- 📚 学术论文 (#publications, priority: 0.9)
+- 💬 留言板 (#guestbook, priority: 0.5)
+- 📊 网站统计 (#site-stats, priority: 0.4)
 
 ### 百度站长平台
 1. 访问 [百度站长平台](https://ziyuan.baidu.com/)
-2. 添加网站并验证
-3. 提交 sitemap 和主要页面
+2. 添加网站并验证：`https://chenweilong915.github.io`
+3. 提交 sitemap：`https://chenweilong915.github.io/sitemap.xml`
 4. 使用百度的主动推送功能
+
+**⚠️ 常见问题解决：**
+- **站点数量限制**：如遇到"该主域可添加站点数量超过限制"错误
+  - 🔄 **解决方案1**：删除不再使用的旧站点，释放配额
+  - 🔄 **解决方案2**：使用子域名形式：`www.chenweilong915.github.io`
+  - 🔄 **解决方案3**：联系百度客服申请提高限制
+  - 📝 **替代方案**：使用百度主动推送API，无需添加站点
+
+**📝 百度sitemap提交步骤：**
+- 进入"数据引入" → "链接提交"
+- 选择"sitemap"提交方式
+- 输入：`https://chenweilong915.github.io/sitemap.xml`
+
+**🚀 百度主动推送替代方案：**
+如无法添加站点，可使用百度主动推送API：
+```bash
+curl -H 'Content-Type:text/plain' --data-binary @urls.txt "http://data.zz.baidu.com/urls?site=https://chenweilong915.github.io&token=YOUR_TOKEN"
+```
 
 ### Bing 网站管理员工具
 1. 访问 [Bing Webmaster Tools](https://www.bing.com/webmasters)
-2. 添加并验证网站
-3. 提交 sitemap
+2. 添加并验证网站：`https://chenweilong915.github.io`
+3. 提交 sitemap：`https://chenweilong915.github.io/sitemap.xml`
+
+**📝 Bing sitemap提交步骤：**
+- 在仪表板中找到"站点地图"部分
+- 点击"提交站点地图"
+- 输入：`https://chenweilong915.github.io/sitemap.xml`
 
 ## 🚀 进一步优化建议
 
