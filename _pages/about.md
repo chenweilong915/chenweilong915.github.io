@@ -141,67 +141,67 @@ redirect_from:
 ## 📚 期刊论文 / <span style="color: gray;">Journal Publications</span>
 
 ### 已发表 / <span style="color: gray;">Published</span>
-- *2025*: **Weilong Chen**, Wenxuan Xu, Haoran Chen, Xinran Zhang, Zhijin Qin, Yanru Zhang, and Zhu Han, **"Semantic Communication based on Large Language Model for Underwater Image Transmission"**, *IEEE Transactions on Mobile Computing (TMC)*, online. (**🏆CCF A, 中科院一区**)
+[1] *2025*: **Weilong Chen**, Wenxuan Xu, Haoran Chen, Xinran Zhang, Zhijin Qin, Yanru Zhang, and Zhu Han, **"Semantic Communication based on Large Language Model for Underwater Image Transmission"**, *IEEE Transactions on Mobile Computing (TMC)*, online. (**🏆CCF A, 中科院一区**)
 
-- *2025*: **Weilong Chen**, Xinran Zhang, Ling Zhu, Jian Shi, Zheng Chang, Zhu Han, and Yanru Zhang, **"Large Language Model for Socio-Aware Load Forecasting"**, *IEEE Transactions on Industrial Informatics (TII)*, online. (**🏆中科院一区**)
+[2] *2025*: **Weilong Chen**, Xinran Zhang, Ling Zhu, Jian Shi, Zheng Chang, Zhu Han, and Yanru Zhang, **"Large Language Model for Socio-Aware Load Forecasting"**, *IEEE Transactions on Industrial Informatics (TII)*, online. (**🏆中科院一区**)
 
-- *2025*: **Weilong Chen**, Xinru Liu, Xinran Zhang, Jian Shi, Han Yang, Zhu Han, and Yanru Zhang, **"[SocioDiff: A Socio-Aware Diffusion Model for Residential Electricity Consumption Data Generation](https://github.com/Intelligame/SocialDiff)"**, *IEEE Transactions on Smart Grid (TSG)*, online. (**🏆中科院一区**)
+[3] *2025*: **Weilong Chen**, Xinru Liu, Xinran Zhang, Jian Shi, Han Yang, Zhu Han, and Yanru Zhang, **"[SocioDiff: A Socio-Aware Diffusion Model for Residential Electricity Consumption Data Generation](https://github.com/Intelligame/SocialDiff)"**, *IEEE Transactions on Smart Grid (TSG)*, online. (**🏆中科院一区**)
 
-- *2025*: **Weilong Chen**, Wenhao Hu, Xiaolu Chen, Weimin Yuan, Yan Wang, Yanru Zhang, **"[Tri-Modal Transformers with Mixture-of-Modality-Experts for Social Media Prediction](https://ieeexplore.ieee.org/abstract/document/10705363)"**, *IEEE Transactions on Circuits and Systems for Video Technology*, Vol. 35, no. 2, pp. 1897-1909, Feb. 2025. (**🏆中科院一区**)
+[4] *2025*: **Weilong Chen**, Wenhao Hu, Xiaolu Chen, Weimin Yuan, Yan Wang, Yanru Zhang, **"[Tri-Modal Transformers with Mixture-of-Modality-Experts for Social Media Prediction](https://ieeexplore.ieee.org/abstract/document/10705363)"**, *IEEE Transactions on Circuits and Systems for Video Technology*, Vol. 35, no. 2, pp. 1897-1909, Feb. 2025. (**🏆中科院一区**)
 
-- *2024*: **Weilong Chen**, Shaoliang Zhang, Ruobing Xie, Feng Xia, Leyu Lin, Xinran Zhang, Yan Wang, and Yanru Zhang, **"[CIPPO: Contrastive Imitation Proximal Policy Optimization for Recommendation Based on Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/10534824)"**, *IEEE Transactions on Knowledge and Data Engineering (TKDE)*, vol. 36, no. 11, pp. 5753-5767, Nov. 2024. (**🏆CCF A, 中科院一区**)
+[5] *2024*: **Weilong Chen**, Shaoliang Zhang, Ruobing Xie, Feng Xia, Leyu Lin, Xinran Zhang, Yan Wang, and Yanru Zhang, **"[CIPPO: Contrastive Imitation Proximal Policy Optimization for Recommendation Based on Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/10534824)"**, *IEEE Transactions on Knowledge and Data Engineering (TKDE)*, vol. 36, no. 11, pp. 5753-5767, Nov. 2024. (**🏆CCF A, 中科院一区**)
 
-- *2024*: **Weilong Chen**, Shengrong Bu, Xinran Zhang, Yanqing Tao, Yanru Zhang, and Zhu Han, **"[Semi-Supervised Federated Analytics for Heterogeneous Household Characteristics Identification](https://ieeexplore.ieee.org/abstract/document/10559406)"**, *IEEE Transactions on Smart Grid*, vol. 15, no. 6, pp. 5799-5812, Nov. 2024. (**🏆中科院一区**)
+[6] *2024*: **Weilong Chen**, Shengrong Bu, Xinran Zhang, Yanqing Tao, Yanru Zhang, and Zhu Han, **"[Semi-Supervised Federated Analytics for Heterogeneous Household Characteristics Identification](https://ieeexplore.ieee.org/abstract/document/10559406)"**, *IEEE Transactions on Smart Grid*, vol. 15, no. 6, pp. 5799-5812, Nov. 2024. (**🏆中科院一区**)
 
-- *2024*: **Weilong Chen**, Shengrong Bu, Xinran Zhang, Yanqing Tao, Yanru Zhang, Zhu Han, **"[Deep Reinforcement Learning-Assisted Federated Learning for Robust Short-Term Load Forecasting in Electricity Wholesale Markets](https://ieeexplore.ieee.org/abstract/document/10598399/)"**, *IEEE Transactions on Network Science and Engineering*, vol. 11, no. 5, pp. 5073-5086, Sept.-Oct. 2024. (**🏆中科院一区**)
+[7] *2024*: **Weilong Chen**, Shengrong Bu, Xinran Zhang, Yanqing Tao, Yanru Zhang, Zhu Han, **"[Deep Reinforcement Learning-Assisted Federated Learning for Robust Short-Term Load Forecasting in Electricity Wholesale Markets](https://ieeexplore.ieee.org/abstract/document/10598399/)"**, *IEEE Transactions on Network Science and Engineering*, vol. 11, no. 5, pp. 5073-5086, Sept.-Oct. 2024. (**🏆中科院一区**)
 
-- *2024*: Xinran Zhang, Zheng Chang, Tao Hu, **Weilong Chen**, Xin Zhang, Geyong Min, **"[Vehicle Selection and Resource Allocation for Federated Learning-Assisted Vehicular Network](https://ieeexplore.ieee.org/document/10144680)"**, *IEEE Transactions on Mobile Computing (TMC)*, vol. 23, no. 5, pp. 3817-3829, May 2024. (**🏆CCF A, 中科院一区**)
+[8] *2024*: Xinran Zhang, Zheng Chang, Tao Hu, **Weilong Chen**, Xin Zhang, Geyong Min, **"[Vehicle Selection and Resource Allocation for Federated Learning-Assisted Vehicular Network](https://ieeexplore.ieee.org/document/10144680)"**, *IEEE Transactions on Mobile Computing (TMC)*, vol. 23, no. 5, pp. 3817-3829, May 2024. (**🏆CCF A, 中科院一区**)
 
-- *2024*: Xinran Zhang, **Weilong Chen**, Hui Zhao, Zheng Chang, Zhu Han, **"[Joint accuracy and latency optimization for quantized federated learning in vehicular networks](https://ieeexplore.ieee.org/abstract/document/10542529/)"**, *IEEE Internet of Things Journal*, vol. 11, no. 17, pp. 28876-28890, 1 Sept.1, 2024. (**中科院二区**)
+[9] *2024*: Xinran Zhang, **Weilong Chen**, Hui Zhao, Zheng Chang, Zhu Han, **"[Joint accuracy and latency optimization for quantized federated learning in vehicular networks](https://ieeexplore.ieee.org/abstract/document/10542529/)"**, *IEEE Internet of Things Journal*, vol. 11, no. 17, pp. 28876-28890, 1 Sept.1, 2024. (**中科院二区**)
 
-- *2024*: Xinran Zhang, Dan Wang, Yifei Zhu, **Weilong Chen**, Zheng Chang, Zhu Han, **"Zero-Trust Based Robust Federated Learning against Betrayal Behaviors"**, *IEEE Transactions on Mobile Computing (TMC)*, online. (**🏆CCF A, 中科院一区**)
+[10] *2024*: Xinran Zhang, Dan Wang, Yifei Zhu, **Weilong Chen**, Zheng Chang, Zhu Han, **"Zero-Trust Based Robust Federated Learning against Betrayal Behaviors"**, *IEEE Transactions on Mobile Computing (TMC)*, online. (**🏆CCF A, 中科院一区**)
 
-- *2025*: Dingwen Pan, **Weilong Chen**, Jian Shi, Chenye Wu, Dan Wang, Choong Seon Hong, and Zhu Han, **"Bayesian Inference-Aided Large Language Model Agents in Infinitely Repeated Games: A Dynamic Network View"**, *IEEE Transactions on Network Science and Engineering*, online. (**中科院二区**)
+[11] *2025*: Dingwen Pan, **Weilong Chen**, Jian Shi, Chenye Wu, Dan Wang, Choong Seon Hong, and Zhu Han, **"Bayesian Inference-Aided Large Language Model Agents in Infinitely Repeated Games: A Dynamic Network View"**, *IEEE Transactions on Network Science and Engineering*, online. (**中科院二区**)
 
-- *2022*: Yu Bai, Yan Wang, Dayuan Qiang, Xin Yuan, Jiehui Wu, **Weilong Chen**, Sai Zhang, Yanru Zhang, and George Chen, **"Identification of nanocomposites agglomerates in scanning electron microscopy images based on semantic segmentation"**, *IET Nanodielectrics*, vol. 5, no. 2, pp. 93–103, 2022.
+[12] *2022*: Yu Bai, Yan Wang, Dayuan Qiang, Xin Yuan, Jiehui Wu, **Weilong Chen**, Sai Zhang, Yanru Zhang, and George Chen, **"Identification of nanocomposites agglomerates in scanning electron microscopy images based on semantic segmentation"**, *IET Nanodielectrics*, vol. 5, no. 2, pp. 93–103, 2022.
 
 
 ## 🎓 会议论文 / <span style="color: gray;">Conference Publications</span>
 
 ### 已发表 / <span style="color: gray;">Published</span>
-- *2025*: **Weilong Chen**, Jian Shi, Yixin Liang, Ling Zhu, Zheng Chang, Yanru Zhang, and Zhu Han, **"Privacy-preserving Socio-Aware Short-Term Residential Load Forecasting"**, *IEEE International Conference on Communications (ICC)*, Montreal, Canada, May 2025. (**🏆UESTC Class A**)
+[1] *2025*: **Weilong Chen**, Jian Shi, Yixin Liang, Ling Zhu, Zheng Chang, Yanru Zhang, and Zhu Han, **"Privacy-preserving Socio-Aware Short-Term Residential Load Forecasting"**, *IEEE International Conference on Communications (ICC)*, Montreal, Canada, May 2025. (**🏆UESTC Class A**)
 
-- *2025*: Wenhao Hu, **Weilong Chen**, Weimin Yuan, Xiaolu Chen, Han Yang, Yanru Zhang, Zhu Han, **"[Feature Disentangling Dual-stream Network for User Bias Alleviation in Social Media Prediction](https://ieeexplore.ieee.org/abstract/document/10890121)"**, *ICASSP 2025 - 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, Hyderabad, India, 2025, pp. 1-5. (CCF B)
+[2] *2025*: Wenhao Hu, **Weilong Chen**, Weimin Yuan, Xiaolu Chen, Han Yang, Yanru Zhang, Zhu Han, **"[Feature Disentangling Dual-stream Network for User Bias Alleviation in Social Media Prediction](https://ieeexplore.ieee.org/abstract/document/10890121)"**, *ICASSP 2025 - 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, Hyderabad, India, 2025, pp. 1-5. (CCF B)
 
-- *2024*: Wenhao Hu, **Weilong Chen**, Weimin Yuan, Yan Wang, Shimin Cai, Yanru Zhang, **"[Dual-Stream Pre-Training Transformer to Enhance Multimodal Learning for Social Media Prediction](https://dl.acm.org/doi/abs/10.1145/3664647.3688998)"**, *ACM MM 2024 - Proceedings of the 32nd ACM International Conference on Multimedia*, Melbourne VIC, Australia, 2024, pp. 11450–11456. (**🏆CCF A**)
+[3] *2024*: Wenhao Hu, **Weilong Chen**, Weimin Yuan, Yan Wang, Shimin Cai, Yanru Zhang, **"[Dual-Stream Pre-Training Transformer to Enhance Multimodal Learning for Social Media Prediction](https://dl.acm.org/doi/abs/10.1145/3664647.3688998)"**, *ACM MM 2024 - Proceedings of the 32nd ACM International Conference on Multimedia*, Melbourne VIC, Australia, 2024, pp. 11450–11456. (**🏆CCF A**)
 
-- *2024*: Xinran Zhang, Dan Wang, Yifei Zhu, **Weilong Chen**, Zheng Chang and Zhu Han, **"[When Zero-Trust Meets Federated Learning](https://ieeexplore.ieee.org/abstract/document/10901088)"**, *GLOBECOM 2024 - 2024 IEEE Global Communications Conference*, Cape Town, South Africa, 2024, pp. 794-799. (**🏆UESTC Class A**)
+[4] *2024*: Xinran Zhang, Dan Wang, Yifei Zhu, **Weilong Chen**, Zheng Chang and Zhu Han, **"[When Zero-Trust Meets Federated Learning](https://ieeexplore.ieee.org/abstract/document/10901088)"**, *GLOBECOM 2024 - 2024 IEEE Global Communications Conference*, Cape Town, South Africa, 2024, pp. 794-799. (**🏆UESTC Class A**)
 
-- *2024*: Hui Zhao, Xinran Zhang, **Weilong Chen**, Xiaobin Xu, Li Wang and Zheng Chang, **"Multi-dimensional Resource Allocation in HAP-assisted UAV Wireless Networks for IoRT Data Collection"**, *IEEE Global Communications Conference (GLOBECOM)*, Cape Town, South Africa, Dec. 2024. (**🏆UESTC Class A**)
+[5] *2024*: Hui Zhao, Xinran Zhang, **Weilong Chen**, Xiaobin Xu, Li Wang and Zheng Chang, **"Multi-dimensional Resource Allocation in HAP-assisted UAV Wireless Networks for IoRT Data Collection"**, *IEEE Global Communications Conference (GLOBECOM)*, Cape Town, South Africa, Dec. 2024. (**🏆UESTC Class A**)
 
-- *2023*: Xiaolu Chen, **Weilong Chen**, Chenghao Huang, Zhongjian Zhang, Lixin Duan, Yanru Zhang, **"[Double-Fine-Tuning Multi-Objective Vision-and-Language Transformer for Social Media Popularity Prediction](https://dl.acm.org/doi/abs/10.1145/3581783.3612845)"**, *ACM MM 2023 - Proceedings of the 31st ACM International Conference on Multimedia*, Ottawa ON, Canada, 2023, pp. 9462–9466. (**🏆CCF A**)
+[6] *2023*: Xiaolu Chen, **Weilong Chen**, Chenghao Huang, Zhongjian Zhang, Lixin Duan, Yanru Zhang, **"[Double-Fine-Tuning Multi-Objective Vision-and-Language Transformer for Social Media Popularity Prediction](https://dl.acm.org/doi/abs/10.1145/3581783.3612845)"**, *ACM MM 2023 - Proceedings of the 31st ACM International Conference on Multimedia*, Ottawa ON, Canada, 2023, pp. 9462–9466. (**🏆CCF A**)
 
-- *2022*: **Weilong Chen**, Chenghao Huang, Weimin Yuan, Xiaolu Chen, Wenhao Hu, Xinran Zhang, Yanru Zhang, **"[Title-and-tag contrastive vision-and-language transformer for social media popularity prediction](https://dl.acm.org/doi/abs/10.1145/3503161.3551568)"**, *ACM MM 2022 - Proceedings of the 30th ACM International Conference on Multimedia*, Lisboa, Portugal, 2022, pp. 7008–7012. (**🏆CCF A**)
+[7] *2022*: **Weilong Chen**, Chenghao Huang, Weimin Yuan, Xiaolu Chen, Wenhao Hu, Xinran Zhang, Yanru Zhang, **"[Title-and-tag contrastive vision-and-language transformer for social media popularity prediction](https://dl.acm.org/doi/abs/10.1145/3503161.3551568)"**, *ACM MM 2022 - Proceedings of the 30th ACM International Conference on Multimedia*, Lisboa, Portugal, 2022, pp. 7008–7012. (**🏆CCF A**)
 
-- *2022*: Chenghao Huang, **Weilong Chen**, Xiaoyi Wang, Feng Hong, Shunji Yang, Yuxi Chen, Shengrong Bu, Yanru Zhang, **"DearFSAC: A DRL-based Robust Design for Power Demand Forecasting in Federated Smart Grid"**, *IEEE Global Communications Conference (GLOBECOM)*, Rio de Janeiro, Brazil, Dec. 2022. (**🏆UESTC Class A**)
+[8] *2022*: Chenghao Huang, **Weilong Chen**, Xiaoyi Wang, Feng Hong, Shunji Yang, Yuxi Chen, Shengrong Bu, Yanru Zhang, **"DearFSAC: A DRL-based Robust Design for Power Demand Forecasting in Federated Smart Grid"**, *IEEE Global Communications Conference (GLOBECOM)*, Rio de Janeiro, Brazil, Dec. 2022. (**🏆UESTC Class A**)
 
-- *2020*: **Weilong Chen**, Feng Hong, Chenghao Huang, Shaoliang Zhang, Rui Wang, Ruobing Xie, Feng Xia, Leyu Lin, Yanru Zhang, Yan Wang, **"Curriculum Learning for Wide Multimedia-Based Transformer with Graph Target Detection"**, *ACM International Conference on Multimedia (MM)*, Seattle, WA, Oct. 2020. (**🏆CCF A**)
+[9] *2020*: **Weilong Chen**, Feng Hong, Chenghao Huang, Shaoliang Zhang, Rui Wang, Ruobing Xie, Feng Xia, Leyu Lin, Yanru Zhang, Yan Wang, **"Curriculum Learning for Wide Multimedia-Based Transformer with Graph Target Detection"**, *ACM International Conference on Multimedia (MM)*, Seattle, WA, Oct. 2020. (**🏆CCF A**)
 
-- *2020*: **Weilong Chen**, Peng Wang, Jipeng Li, Yuanshuai Zheng, Yan Wang, Yanru Zhang, **"Ferryman at SemEval-2020 Task 12: BERT-Based Model with Advanced Improvement Methods for Multilingual Offensive Language Identification"**, *13th International Workshop on Semantic Evaluation (SemEval)*, Barcelona, Spain, Dec. 2020.
+[10] *2020*: **Weilong Chen**, Peng Wang, Jipeng Li, Yuanshuai Zheng, Yan Wang, Yanru Zhang, **"Ferryman at SemEval-2020 Task 12: BERT-Based Model with Advanced Improvement Methods for Multilingual Offensive Language Identification"**, *13th International Workshop on Semantic Evaluation (SemEval)*, Barcelona, Spain, Dec. 2020.
 
-- *2020*: **Weilong Chen**, Yan Zhuang, Peng Wang, Feng Hong, Yan Wang, Yanru Zhang, **"Ferryman as SemEval-2020 Task 5: Optimized BERT for Detecting Counterfactuals"**, *13th International Workshop on Semantic Evaluation (SemEval)*, Barcelona, Spain, Dec. 2020.
+[11] *2020*: **Weilong Chen**, Yan Zhuang, Peng Wang, Feng Hong, Yan Wang, Yanru Zhang, **"Ferryman as SemEval-2020 Task 5: Optimized BERT for Detecting Counterfactuals"**, *13th International Workshop on Semantic Evaluation (SemEval)*, Barcelona, Spain, Dec. 2020.
 
-- *2020*: **Weilong Chen**, Jipeng Li, Chenghao Huang, Wei Bai, Yanru Zhang, Yan Wang, **"Ferryman at SemEval-2020 Task 7: Ensemble Model for Assessing Humor in Edited News Headlines"**, *13th International Workshop on Semantic Evaluation (SemEval)*, Barcelona, Spain, Dec. 2020.
+[12] *2020*: **Weilong Chen**, Jipeng Li, Chenghao Huang, Wei Bai, Yanru Zhang, Yan Wang, **"Ferryman at SemEval-2020 Task 7: Ensemble Model for Assessing Humor in Edited News Headlines"**, *13th International Workshop on Semantic Evaluation (SemEval)*, Barcelona, Spain, Dec. 2020.
 
-- *2020*: **Weilong Chen**, Xin Yuan, Sai Zhang, Jiehui Wu, Yanru Zhang, Yan Wang, **"Ferryman at SemEval-2020 Task 3: Bert with TFIDF-Weighting for Predicting the Effect of Context in Word Similarity"**, *13th International Workshop on Semantic Evaluation (SemEval)*, Barcelona, Spain, Dec. 2020.
+[13] *2020*: **Weilong Chen**, Xin Yuan, Sai Zhang, Jiehui Wu, Yanru Zhang, Yan Wang, **"Ferryman at SemEval-2020 Task 3: Bert with TFIDF-Weighting for Predicting the Effect of Context in Word Similarity"**, *13th International Workshop on Semantic Evaluation (SemEval)*, Barcelona, Spain, Dec. 2020.
 
-- *2020*: **Weilong Chen**, Shuaipeng Liu, Wei Bao, Huixing Jiang, **"An effective approach for citation intent recognition based on BERT and lightGBM"**, *Web Search and Data Mining Cup, WSDM CUP'2020*.
+[14] *2020*: **Weilong Chen**, Shuaipeng Liu, Wei Bao, Huixing Jiang, **"An effective approach for citation intent recognition based on BERT and lightGBM"**, *Web Search and Data Mining Cup, WSDM CUP'2020*.
 
-- *2020*: Wei Bao, **Weilong Chen**, Wei Bai, Yan Zhuang, Mingyuan Cheng, Xiangyu Ma, **"Will_go at SemEval-2020 Task 9: An Accurate Approach for Sentiment Analysis on Hindi-English Tweets Based on Bert and Pesudo Label Strategy"**, *Proceedings of the Fourteenth Workshop on Semantic Evaluation, Semeval'2020*, Barcelona, 2020.
+[15] *2020*: Wei Bao, **Weilong Chen**, Wei Bai, Yan Zhuang, Mingyuan Cheng, Xiangyu Ma, **"Will_go at SemEval-2020 Task 9: An Accurate Approach for Sentiment Analysis on Hindi-English Tweets Based on Bert and Pesudo Label Strategy"**, *Proceedings of the Fourteenth Workshop on Semantic Evaluation, Semeval'2020*, Barcelona, 2020.
 
-- *2020*: Wu Qi, **Weilong Chen**, Wei Bao, Jipeng Li, Peikai Pan, Qiyao Peng, Pengfei Jiao, **"Tree-based model with advanced data preprocessing for large scale hard disk failure prediction"**, *AI Ops Competition*, 2020.
+[16] *2020*: Wu Qi, **Weilong Chen**, Wei Bao, Jipeng Li, Peikai Pan, Qiyao Peng, Pengfei Jiao, **"Tree-based model with advanced data preprocessing for large scale hard disk failure prediction"**, *AI Ops Competition*, 2020.
 
-- *2019*: Qidi Xu, Haocheng Xu, **Weilong Chen**, Chaojun Han, Haoyang Li, Wenxin Tan, Fumin Shen, Heng Tao Shen, **"Time-aware Session Embedding for Click-Through-Rate Prediction"**, *ACM International Conference on Multimedia (MM)*, Nice France, 2019. (*Equal contribution) (**🏆CCF A**)
+[17] *2019*: Qidi Xu, Haocheng Xu, **Weilong Chen**, Chaojun Han, Haoyang Li, Wenxin Tan, Fumin Shen, Heng Tao Shen, **"Time-aware Session Embedding for Click-Through-Rate Prediction"**, *ACM International Conference on Multimedia (MM)*, Nice France, 2019. (*Equal contribution) (**🏆CCF A**)
 
 <!--
 ### 审稿中 / Under Review
