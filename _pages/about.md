@@ -17,128 +17,128 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# 关于我 / About Me
+# 关于我 / <span style="color: gray;">About Me</span>
 
 我于2018年获得电子科技大学自动化专业学士学位，2021年获得同校计算机科学硕士学位。目前在电子科技大学计算机科学与工程学院攻读博士学位，导师为[张彦如教授](https://scholar.google.com/citations?user=6I1ytegAAAAJ&hl=en)。我的研究兴趣包括机器学习、联邦学习、大语言模型和智能电网。我在ACM MM等顶级会议和TKDE、TSG、TCSVT等期刊上发表了多篇论文。2023-2024年期间，我在休斯顿大学[韩竹教授](http://www2.egr.uh.edu/~zhan2/)指导下担任访问学者。
 
-I graduated from the Automation major at the University of Electronic Science and Technology of China (UESTC) in 2018 for my undergraduate degree, and in 2021 I obtained my Master's degree in Computer Science from the same university. I am currently pursuing the Ph.D. degree under the supervision of [Prof. Yanru Zhang](https://scholar.google.com/citations?user=6I1ytegAAAAJ&hl=en) with the School of Computer Science and Engineering, UESTC. My research interests include machine learning, federated learning, large language model and smart grid. I have published papers in top conferences such as ACM MM and journals such as TKDE, TSG, and TCSVT. I was a visiting scholar at the University of Houston under the supervision of [Prof. Zhu Han](http://www2.egr.uh.edu/~zhan2/) during 2023-2024.
+<span style="color: gray;">I graduated from the Automation major at the University of Electronic Science and Technology of China (UESTC) in 2018 for my undergraduate degree, and in 2021 I obtained my Master's degree in Computer Science from the same university. I am currently pursuing the Ph.D. degree under the supervision of [Prof. Yanru Zhang](https://scholar.google.com/citations?user=6I1ytegAAAAJ&hl=en) with the School of Computer Science and Engineering, UESTC. My research interests include machine learning, federated learning, large language model and smart grid. I have published papers in top conferences such as ACM MM and journals such as TKDE, TSG, and TCSVT. I was a visiting scholar at the University of Houston under the supervision of [Prof. Zhu Han](http://www2.egr.uh.edu/~zhan2/) during 2023-2024.</span>
 
 我的研究兴趣包括智能电网中的AI应用、推荐系统和机器学习中的多模态技术。我已发表26篇论文，总计<a href='https://scholar.google.com/citations?user=ukaTvisAAAAJ'>谷歌学术引用<strong><span id='total_cit'>190+</span></strong></a>次。
 
-My research interest includes AI in smart grid, Recommendation, and Multi-modal in machine learning. I have published 26 papers with total <a href='https://scholar.google.com/citations?user=ukaTvisAAAAJ'>google scholar citations <strong><span id='total_cit'>140+</span></strong></a>.
+<span style="color: gray;">My research interest includes AI in smart grid, Recommendation, and Multi-modal in machine learning. I have published 26 papers with total <a href='https://scholar.google.com/citations?user=ukaTvisAAAAJ'>google scholar citations <strong><span id='total_cit'>190+</span></strong></a>.</span>
 
 <span class='anchor' id='educations'></span>
 
-# 📖 教育经历 / Educations
+# 📖 教育经历 / <span style="color: gray;">Educations</span>
 
 - *2021.09 – 至今*，电子信息博士，电子科技大学，成都，中国  
-  *2021.09 – Present*, Ph.D. in Electronic Information, University of Electronic Science and Technology of China (UESTC), Chengdu, China  
+  <span style="color: gray;">*2021.09 – Present*, Ph.D. in Electronic Information, University of Electronic Science and Technology of China (UESTC), Chengdu, China</span>  
   导师/Supervisor: [张彦如教授/Prof. Yanru Zhang](https://scholar.google.com/citations?user=6I1ytegAAAAJ&hl=en)
 
 - *2023.09 – 2024.09*，访问博士生，电气与计算机工程系，休斯顿大学，美国  
-  *2023.09 – 2024.09*, Visiting Ph.D. Student, Department of Electrical and Computer Engineering, University of Houston, USA  
+  <span style="color: gray;">*2023.09 – 2024.09*, Visiting Ph.D. Student, Department of Electrical and Computer Engineering, University of Houston, USA</span>  
   导师/Supervisor: [韩竹教授/Prof. Zhu Han](http://www2.egr.uh.edu/~zhan2/) (IEEE/ACM Fellow)
 
 - *2018.09 – 2021.06*，计算机技术工程硕士，电子科技大学，成都，中国  
-  *2018.09 – 2021.06*, M.Eng. in Computer Technology, University of Electronic Science and Technology of China (UESTC), Chengdu, China  
+  <span style="color: gray;">*2018.09 – 2021.06*, M.Eng. in Computer Technology, University of Electronic Science and Technology of China (UESTC), Chengdu, China</span>  
   导师/Supervisor: [周涛教授/Prof. Tao Zhou](https://scholar.google.com/citations?user=MXgWgmEAAAAJ&hl=en)
 
 - *2014.03 – 2018.10*，自动化工学学士，电子科技大学，成都，中国  
-  *2014.03 – 2018.10*, B.Eng. in Automation, University of Electronic Science and Technology of China (UESTC), Chengdu, China
+  <span style="color: gray;">*2014.03 – 2018.10*, B.Eng. in Automation, University of Electronic Science and Technology of China (UESTC), Chengdu, China</span>
 
 <span class='anchor' id='research'></span>
 
-# 🔍 研究方向 / Research
+# 🔍 研究方向 / <span style="color: gray;">Research</span>
 
 我目前的研究兴趣主要集中在：  
-My research interest currently focuses on:
+<span style="color: gray;">My research interest currently focuses on:</span>
 
-- 智能电网应用中的社会相关信息分析 / Social-related information analysis in smart grid applications
-- 智能电网应用中的多模态和大语言模型 / Multi-modal and Large Language Models in smart grid applications  
-- 时间序列分析 / Time series analysis
+- 智能电网应用中的社会相关信息分析 / <span style="color: gray;">Social-related information analysis in smart grid applications</span>
+- 智能电网应用中的多模态和大语言模型 / <span style="color: gray;">Multi-modal and Large Language Models in smart grid applications</span>  
+- 时间序列分析 / <span style="color: gray;">Time series analysis</span>
 
 <span class='anchor' id='news'></span>
 
-# 🔥 最新动态 / News
+# 🔥 最新动态 / <span style="color: gray;">News</span>
 
 * *2025.09*: &nbsp;🎉🎉 我们的两篇论文被顶级期刊录用！**"Semantic Communication based on Large Language Model for Underwater Image Transmission"**被*IEEE Transactions on Mobile Computing (TMC)* (**🏆CCF A类，中科院一区**)录用，**"Large Language Model for Socio-Aware Load Forecasting"**被*IEEE Transactions on Industrial Informatics (TII)* (**🏆中科院一区**)录用！  
-  Two of our papers have been accepted by top journals! **"Semantic Communication based on Large Language Model for Underwater Image Transmission"** accepted by *IEEE Transactions on Mobile Computing (TMC)* (**🏆CCF A, 中科院一区**), and **"Large Language Model for Socio-Aware Load Forecasting"** accepted by *IEEE Transactions on Industrial Informatics (TII)* (**🏆中科院一区**)!
+  <span style="color: gray;">Two of our papers have been accepted by top journals! **"Semantic Communication based on Large Language Model for Underwater Image Transmission"** accepted by *IEEE Transactions on Mobile Computing (TMC)* (**🏆CCF A, 中科院一区**), and **"Large Language Model for Socio-Aware Load Forecasting"** accepted by *IEEE Transactions on Industrial Informatics (TII)* (**🏆中科院一区**)!</span>
 
 * *2025.05*: &nbsp;🎉🎉 我们的论文**"SocioDiff: A Socio-aware Diffusion Model for Residential Load Data Generation"**被*IEEE Transactions on Smart Grid* (**🏆顶级期刊，中科院一区**)录用！[[数据集和代码]](https://github.com/Intelligame/SocialDiff)  
-  Our paper **"SocioDiff: A Socio-aware Diffusion Model for Residential Load Data Generation"** has been accepted by *IEEE Transactions on Smart Grid* (**🏆Top Journal, 中科院一区**)! [[dataset and code]](https://github.com/Intelligame/SocialDiff)
+  <span style="color: gray;">Our paper **"SocioDiff: A Socio-aware Diffusion Model for Residential Load Data Generation"** has been accepted by *IEEE Transactions on Smart Grid* (**🏆Top Journal, 中科院一区**)! [[dataset and code]](https://github.com/Intelligame/SocialDiff)</span>
 
 - *2022.04*: 我们发布了一个很棒的仓库**[Awesome Energy LLM papers](https://github.com/chenweilong915/awesome_energy_LLM)**，专注于大语言模型在能源领域的应用。  
-  We have released a awesome repo named **[Awesome Energy LLM papers](https://github.com/chenweilong915/awesome_energy_LLM)**, focus on applications of LLMs in energy areas.
+  <span style="color: gray;">We have released a awesome repo named **[Awesome Energy LLM papers](https://github.com/chenweilong915/awesome_energy_LLM)**, focus on applications of LLMs in energy areas.</span>
 
 <span class='anchor' id='honors-and-awards'></span>
 
-# 🎖 荣誉奖项 / Honors and Awards
+# 🎖 荣誉奖项 / <span style="color: gray;">Honors and Awards</span>
 
-## 🏆 科研获奖 / Research Awards
-- *2025*: 📜 最佳论文奖提名 / Best Paper Award Nomination, IEEE International Conference on Communications (ICC)
+## 🏆 科研获奖 / <span style="color: gray;">Research Awards</span>
+- *2025*: 📜 最佳论文奖提名 / <span style="color: gray;">Best Paper Award Nomination, IEEE International Conference on Communications (ICC)</span>
 
-## 🎗️ 荣誉与奖励 / Honors and Scholarships
-- *2024*: 🏆 最佳表现奖 / Best Performance Prize, ACM MM SMP 2024 International Challenge  
-- *2024*: 🎓 电子科技大学一等奖学金 / First-Class Scholarship, UESTC
-- *2023*: 🏆 最佳表现奖 / Best Performance Prize, ACM MM SMP 2023 International Challenge  
-- *2023*: 🎓 电子科技大学三等奖学金 / Third-Class Scholarship, UESTC
-- *2022*: 🏆 最佳表现奖 / Best Performance Prize, ACM MM SMP 2022 International Challenge  
-- *2022*: � "挑战杯"国家级铜奖 / National Bronze Prize, Challenge Cup
-- *2022*: 🥉 "互联网+"国家级铜奖 / National Bronze Prize, Internet+ Competition
-- *2022*: 🎓 电子科技大学三等奖学金 / Third-Class Scholarship, UESTC
-- *2021*: 🌟 成电杰出学生 / Outstanding Student of UESTC
-- *2021*: 🎖️ 四川省优秀毕业生 / Outstanding Graduate of Sichuan Province
-- *2021*: 🎓 电子科技大学优秀毕业生 / Outstanding Graduate of UESTC
-- *2021*: 🏅 国家奖学金 / National Scholarship (China)
-- *2021*: 🥈 "互联网+"国家级银奖 / National Silver Prize, Internet+ Competition
-- *2021*: 🦏 腾讯犀牛鸟精英人才培养计划 / Tencent Rhino-Bird Elite Talent Program
-- *2021*: 🎓 电子科技大学一等奖学金 / First-Class Scholarship, UESTC
-- *2020*: 🏆 最佳表现奖 / Best Performance Prize, ACM MM SMP 2020 International Challenge  
-- *2020*: 🥈 第二名 / 2nd Place, NeurIPS Procgen Challenge 2020  
-- *2020*: 🥇 第一名 / 1st Place, SIGIR FinIR Challenge 2020  
-- *2020*: 🥇 第一名 / 1st Place, ACM WSDM Cup 2020
-- *2020*: 🎓 电子科技大学三等奖学金 / Third-Class Scholarship, UESTC
-- *2019*: 🥇 第一名 / 1st Place, ACM WSDM Cup 2019
+## 🎗️ 荣誉与奖励 / <span style="color: gray;">Honors and Scholarships</span>
+- *2024*: 🏆 最佳表现奖 / <span style="color: gray;">Best Performance Prize, ACM MM SMP 2024 International Challenge</span>  
+- *2024*: 🎓 电子科技大学一等奖学金 / <span style="color: gray;">First-Class Scholarship, UESTC</span>
+- *2023*: 🏆 最佳表现奖 / <span style="color: gray;">Best Performance Prize, ACM MM SMP 2023 International Challenge</span>  
+- *2023*: 🎓 电子科技大学三等奖学金 / <span style="color: gray;">Third-Class Scholarship, UESTC</span>
+- *2022*: 🏆 最佳表现奖 / <span style="color: gray;">Best Performance Prize, ACM MM SMP 2022 International Challenge</span>  
+- *2022*: � "挑战杯"国家级铜奖 / <span style="color: gray;">National Bronze Prize, Challenge Cup</span>
+- *2022*: 🥉 "互联网+"国家级铜奖 / <span style="color: gray;">National Bronze Prize, Internet+ Competition</span>
+- *2022*: 🎓 电子科技大学三等奖学金 / <span style="color: gray;">Third-Class Scholarship, UESTC</span>
+- *2021*: 🌟 成电杰出学生 / <span style="color: gray;">Outstanding Student of UESTC</span>
+- *2021*: 🎖️ 四川省优秀毕业生 / <span style="color: gray;">Outstanding Graduate of Sichuan Province</span>
+- *2021*: 🎓 电子科技大学优秀毕业生 / <span style="color: gray;">Outstanding Graduate of UESTC</span>
+- *2021*: 🏅 国家奖学金 / <span style="color: gray;">National Scholarship (China)</span>
+- *2021*: 🥈 "互联网+"国家级银奖 / <span style="color: gray;">National Silver Prize, Internet+ Competition</span>
+- *2021*: 🦏 腾讯犀牛鸟精英人才培养计划 / <span style="color: gray;">Tencent Rhino-Bird Elite Talent Program</span>
+- *2021*: 🎓 电子科技大学一等奖学金 / <span style="color: gray;">First-Class Scholarship, UESTC</span>
+- *2020*: 🏆 最佳表现奖 / <span style="color: gray;">Best Performance Prize, ACM MM SMP 2020 International Challenge</span>  
+- *2020*: 🥈 第二名 / <span style="color: gray;">2nd Place, NeurIPS Procgen Challenge 2020</span>  
+- *2020*: 🥇 第一名 / <span style="color: gray;">1st Place, SIGIR FinIR Challenge 2020</span>  
+- *2020*: 🥇 第一名 / <span style="color: gray;">1st Place, ACM WSDM Cup 2020</span>
+- *2020*: 🎓 电子科技大学三等奖学金 / <span style="color: gray;">Third-Class Scholarship, UESTC</span>
+- *2019*: 🥇 第一名 / <span style="color: gray;">1st Place, ACM WSDM Cup 2019</span>
 
 <span class='anchor' id='invited-talks'></span>
 
-# 💬 受邀报告 / Invited Talks
+# 💬 受邀报告 / <span style="color: gray;">Invited Talks</span>
 
-- *2024.01*, 🎤 **AIGC教程：扩散模型介绍** / **AIGC Tutorial: An Introduction to Diffusion Model**, University of Houston, Texas, USA  
+- *2024.01*, 🎤 **AIGC教程：扩散模型介绍** / <span style="color: gray;">**AIGC Tutorial: An Introduction to Diffusion Model**, University of Houston, Texas, USA</span>  
   [🎥 视频链接/Video Link](https://www.youtube.com/watch?v=43AaufBaNKQ)
 
 <span class='anchor' id='work-experience'></span>
 
-# 💻 工作经历 / Work Experience
+# 💻 工作经历 / <span style="color: gray;">Work Experience</span>
 
-- *2022.10 – 2023.09*，**高级算法工程师** / **Senior Algorithm Engineer**，TikTok (ByteDance)，北京，中国  
-  - **TikTok.M CapCut粗排优化** / **TikTok.M CapCut Coarse Ranking Optimization**：对CapCut视频推荐链路进行全面分析，发现CapCut模板视频存在显著低估问题。通过调整value tree并重新设计训练链路目标，CC&TT的DAU提升**10.977%**，其中CapCut的DAU提升**9.527%**。  
-    Conducted comprehensive analysis of CapCut video recommendation pipeline, identified significant underestimation issues in CapCut template videos. By adjusting value tree and redesigning training pipeline objectives, boosted CC&TT DAU by **10.977%**, with CapCut DAU increasing by **9.527%**.
+- *2022.10 – 2023.09*，**高级算法工程师** / <span style="color: gray;">**Senior Algorithm Engineer**，TikTok (ByteDance)，北京，中国</span>  
+  - **TikTok.M CapCut粗排优化** / <span style="color: gray;">**TikTok.M CapCut Coarse Ranking Optimization**</span>：对CapCut视频推荐链路进行全面分析，发现CapCut模板视频存在显著低估问题。通过调整value tree并重新设计训练链路目标，CC&TT的DAU提升**10.977%**，其中CapCut的DAU提升**9.527%**。  
+    <span style="color: gray;">Conducted comprehensive analysis of CapCut video recommendation pipeline, identified significant underestimation issues in CapCut template videos. By adjusting value tree and redesigning training pipeline objectives, boosted CC&TT DAU by **10.977%**, with CapCut DAU increasing by **9.527%**.</span>
 
-  - **TikTok.MT CapCut精排优化** / **TikTok.MT CapCut Fine Ranking Optimization**：针对CapCut精准排序模型缺乏可靠估计的问题，在精准排序阶段引入并优化额外精排模型，调整CapCut发表目标预估准确度。最近30天发布量提升**0.418%**，每用户发布量提升**0.457%**，每用户发布计数提升**1.863%**。  
-    Addressed unreliable estimation issues in CapCut's fine ranking model by introducing and optimizing an additional fine ranking model, adjusting prediction accuracy for CapCut publishing objectives. Achieved **0.418%** increase in recent 30-day publishing volume, **0.457%** increase in per-user publishing volume, and **1.863%** increase in per-user publishing count.
+  - **TikTok.MT CapCut精排优化** / <span style="color: gray;">**TikTok.MT CapCut Fine Ranking Optimization**</span>：针对CapCut精准排序模型缺乏可靠估计的问题，在精准排序阶段引入并优化额外精排模型，调整CapCut发表目标预估准确度。最近30天发布量提升**0.418%**，每用户发布量提升**0.457%**，每用户发布计数提升**1.863%**。  
+    <span style="color: gray;">Addressed unreliable estimation issues in CapCut's fine ranking model by introducing and optimizing an additional fine ranking model, adjusting prediction accuracy for CapCut publishing objectives. Achieved **0.418%** increase in recent 30-day publishing volume, **0.457%** increase in per-user publishing volume, and **1.863%** increase in per-user publishing count.</span>
     
-  - **TikTok.MT投稿全链路优化** / **TikTok.MT Full-Pipeline Publishing Optimization**：分析整个投稿链路中各步骤问题，建立ranking阶段全链路投稿目标模型，提高各环节转化效率。最近30天发布量提升**0.877%**，每用户发布量提升**1.2%**，最近7天有效发布天数提升**1.816%**，每用户有效观看量提升**1.327%**。  
-    Analyzed issues in each step of the entire publishing pipeline, established full-pipeline publishing objective model for ranking stage, and improved conversion efficiency at each stage. Achieved **0.877%** increase in recent 30-day publishing volume, **1.2%** increase in per-user publishing volume, **1.816%** increase in effective publishing days in recent 7 days, and **1.327%** increase in per-user effective views.
+  - **TikTok.MT投稿全链路优化** / <span style="color: gray;">**TikTok.MT Full-Pipeline Publishing Optimization**</span>：分析整个投稿链路中各步骤问题，建立ranking阶段全链路投稿目标模型，提高各环节转化效率。最近30天发布量提升**0.877%**，每用户发布量提升**1.2%**，最近7天有效发布天数提升**1.816%**，每用户有效观看量提升**1.327%**。  
+    <span style="color: gray;">Analyzed issues in each step of the entire publishing pipeline, established full-pipeline publishing objective model for ranking stage, and improved conversion efficiency at each stage. Achieved **0.877%** increase in recent 30-day publishing volume, **1.2%** increase in per-user publishing volume, **1.816%** increase in effective publishing days in recent 7 days, and **1.327%** increase in per-user effective views.</span>
 
-- *2020.03 – 2022.10*，**算法工程师** / **Algorithm Engineer**，腾讯微信 / Tencent WeChat，北京，中国  
-  - **重排离线强化学习优化** / **Reranking Offline Reinforcement Learning Optimization**：利用列表优化和离线强化学习（offline-RL）提升微信平台长期用户参与度，通过历史和实时数据简化复杂在线学习过程，集成近端策略优化（PPO）特征和无监督学习解决在线偏差和训练偏差。平均用户播放时间提升**9.513%**，会话播放时间提升**4.376%**，点击率提升**7.789%**，参与率提升**10.947%**。  
-    Applied list optimization and offline reinforcement learning (offline-RL) to boost long-term user engagement on WeChat platform, simplified complex online learning processes through historical and real-time data, integrated Proximal Policy Optimization (PPO) features and unsupervised learning to address online bias and training bias. Achieved **9.513%** increase in average user playtime, **4.376%** increase in session playtime, **7.789%** increase in CTR, and **10.947%** increase in engagement rate.
+- *2020.03 – 2022.10*，**算法工程师** / <span style="color: gray;">**Algorithm Engineer**，腾讯微信 / Tencent WeChat，北京，中国</span>  
+  - **重排离线强化学习优化** / <span style="color: gray;">**Reranking Offline Reinforcement Learning Optimization**</span>：利用列表优化和离线强化学习（offline-RL）提升微信平台长期用户参与度，通过历史和实时数据简化复杂在线学习过程，集成近端策略优化（PPO）特征和无监督学习解决在线偏差和训练偏差。平均用户播放时间提升**9.513%**，会话播放时间提升**4.376%**，点击率提升**7.789%**，参与率提升**10.947%**。  
+    <span style="color: gray;">Applied list optimization and offline reinforcement learning (offline-RL) to boost long-term user engagement on WeChat platform, simplified complex online learning processes through historical and real-time data, integrated Proximal Policy Optimization (PPO) features and unsupervised learning to address online bias and training bias. Achieved **9.513%** increase in average user playtime, **4.376%** increase in session playtime, **7.789%** increase in CTR, and **10.947%** increase in engagement rate.</span>
     
-  - **推荐链路多目标优化** / **Multi-objective Optimization for Recommendation Pipeline**：基于帕累托优化面提出强化学习模块，为每个用户找到合适的个性化多目标权重，奖励中考虑多个目标梯度的加权和。点击率提升**1.63%**，用户次日留存率提升**0.24%**。  
-    Proposed a reinforcement learning module based on Pareto optimization surface to find appropriate personalized multi-objective weights for each user, with rewards considering weighted sum of multiple objective gradients. Achieved **1.63%** increase in CTR and **0.24%** increase in next-day user retention.
+  - **推荐链路多目标优化** / <span style="color: gray;">**Multi-objective Optimization for Recommendation Pipeline**</span>：基于帕累托优化面提出强化学习模块，为每个用户找到合适的个性化多目标权重，奖励中考虑多个目标梯度的加权和。点击率提升**1.63%**，用户次日留存率提升**0.24%**。  
+    <span style="color: gray;">Proposed a reinforcement learning module based on Pareto optimization surface to find appropriate personalized multi-objective weights for each user, with rewards considering weighted sum of multiple objective gradients. Achieved **1.63%** increase in CTR and **0.24%** increase in next-day user retention.</span>
     
-  - **低活用户优化** / **Low-activity User Optimization**：针对低活跃用户实施多种策略，设计模型模块嵌入原始推荐模型以减少偏差，通过嵌入融合的MetaId增强用户画像提高模型准确性。次日用户留存率提升**0.6%**。  
-    Implemented multiple strategies for low-activity users, designed model modules embedded in original recommendation model to reduce bias, enhanced user profiles through embedding fusion MetaId to improve model accuracy. Achieved **0.6%** increase in next-day user retention.  
+  - **低活用户优化** / <span style="color: gray;">**Low-activity User Optimization**</span>：针对低活跃用户实施多种策略，设计模型模块嵌入原始推荐模型以减少偏差，通过嵌入融合的MetaId增强用户画像提高模型准确性。次日用户留存率提升**0.6%**。  
+    <span style="color: gray;">Implemented multiple strategies for low-activity users, designed model modules embedded in original recommendation model to reduce bias, enhanced user profiles through embedding fusion MetaId to improve model accuracy. Achieved **0.6%** increase in next-day user retention.</span>  
 
 
 <span class='anchor' id='publications'></span>
 
-# 📝 学术论文 / Publications
+# 📝 学术论文 / <span style="color: gray;">Publications</span>
 
-## 📚 期刊论文 / Journal Publications
+## 📚 期刊论文 / <span style="color: gray;">Journal Publications</span>
 
-### 已发表 / Published
+### 已发表 / <span style="color: gray;">Published</span>
 - *2025*: **Weilong Chen**, Wenxuan Xu, Haoran Chen, Xinran Zhang, Zhijin Qin, Yanru Zhang, and Zhu Han, **"Semantic Communication based on Large Language Model for Underwater Image Transmission"**, *IEEE Transactions on Mobile Computing (TMC)*, online. (**🏆CCF A, 中科院一区**)
 
 - *2025*: **Weilong Chen**, Xinran Zhang, Ling Zhu, Jian Shi, Zheng Chang, Zhu Han, and Yanru Zhang, **"Large Language Model for Socio-Aware Load Forecasting"**, *IEEE Transactions on Industrial Informatics (TII)*, online. (**🏆中科院一区**)
@@ -164,9 +164,9 @@ My research interest currently focuses on:
 - *2022*: Yu Bai, Yan Wang, Dayuan Qiang, Xin Yuan, Jiehui Wu, **Weilong Chen**, Sai Zhang, Yanru Zhang, and George Chen, **"Identification of nanocomposites agglomerates in scanning electron microscopy images based on semantic segmentation"**, *IET Nanodielectrics*, vol. 5, no. 2, pp. 93–103, 2022.
 
 
-## 🎓 会议论文 / Conference Publications
+## 🎓 会议论文 / <span style="color: gray;">Conference Publications</span>
 
-### 已发表 / Published
+### 已发表 / <span style="color: gray;">Published</span>
 - *2025*: **Weilong Chen**, Jian Shi, Yixin Liang, Ling Zhu, Zheng Chang, Yanru Zhang, and Zhu Han, **"Privacy-preserving Socio-Aware Short-Term Residential Load Forecasting"**, *IEEE International Conference on Communications (ICC)*, Montreal, Canada, May 2025. (**🏆UESTC Class A**)
 
 - *2025*: Wenhao Hu, **Weilong Chen**, Weimin Yuan, Xiaolu Chen, Han Yang, Yanru Zhang, Zhu Han, **"[Feature Disentangling Dual-stream Network for User Bias Alleviation in Social Media Prediction](https://ieeexplore.ieee.org/abstract/document/10890121)"**, *ICASSP 2025 - 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, Hyderabad, India, 2025, pp. 1-5. (CCF B)
@@ -217,8 +217,8 @@ My research interest currently focuses on:
 -->
 
 ---
-📈 **统计 / Statistics**: 已发表期刊论文 **12** 篇，会议论文 **17** 篇  
-Total: **12** published journal papers, **17** published conference papers
+📈 **统计 / <span style="color: gray;">Statistics</span>**: 已发表期刊论文 **12** 篇，会议论文 **17** 篇  
+<span style="color: gray;">Total: **12** published journal papers, **17** published conference papers</span>
 
-📊 更多论文请访问 [Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=ukaTvisAAAAJ) / More papers available on [Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=ukaTvisAAAAJ)
+📊 更多论文请访问 [Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=ukaTvisAAAAJ) / <span style="color: gray;">More papers available on [Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=ukaTvisAAAAJ)</span>
 
