@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Weilong Chen"
-description              : "I am Weilong Chen, a Ph.D. student in UESTC."
+title                    : "陈伟龙 / Weilong Chen"
+description              : "电子科技大学博士生，专注于智能电网与AI研究 / Ph.D. student at UESTC, focusing on Smart Grid and AI research"
 repository               : "chenweilong915/chenweilong915.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -30,10 +30,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Weilong Chen"
+  name             : "陈伟龙 / Weilong Chen"
   avatar           : "images/18598907.png"
-  bio              : "University of Electronic Science and Technology of China"
-  location         : "Chengdu, China"
+  bio              : "电子科技大学 / University of Electronic Science and Technology of China"
+  location         : "成都，中国 / Chengdu, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=ukaTvisAAAAJ"
@@ -46,7 +46,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : https://github.com/chenweilong915
+  github           : chenweilong915
   google_plus      :
   keybase          :
   instagram        :
@@ -170,3 +170,80 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+# 中英文网站配置 / Bilingual Site Configuration
+locale: "zh-CN"
+date_format: "%Y年%m月%d日"
+
+# 网站语言配置 / Site Language Configuration
+languages:
+  zh:
+    name: "中文"
+    title: "陈伟龙的学术主页"
+    description: "电子科技大学博士生，专注于智能电网与AI研究"
+    navigation:
+      about: "关于我"
+      educations: "教育经历"
+      research: "研究方向"
+      news: "最新动态"
+      honors: "荣誉奖项"
+      work: "工作经历"
+      talks: "受邀报告"
+      publications: "学术论文"
+      guestbook: "留言板"
+      stats: "网站统计"
+  en:
+    name: "English"
+    title: "Weilong Chen's Academic Homepage"
+    description: "Ph.D. student at UESTC, focusing on Smart Grid and AI research"
+    navigation:
+      about: "About Me"
+      educations: "Educations"
+      research: "Research"
+      news: "News"
+      honors: "Honors and Awards"
+      work: "Work Experience"
+      talks: "Invited Talks"
+      publications: "Publications"
+      guestbook: "Guestbook"
+      stats: "Site Statistics"
+
+# 网站元信息 / Site Meta Information
+meta:
+  keywords: "陈伟龙,Weilong Chen,电子科技大学,UESTC,智能电网,Smart Grid,AI,机器学习,Machine Learning,联邦学习,Federated Learning,博士生,PhD Student"
+  author_keywords: "研究者,学者,博士生,人工智能,智能电网,Researcher,Scholar,PhD Student,Artificial Intelligence,Smart Grid"
+  
+# 社交媒体配置 / Social Media Configuration  
+social:
+  google_scholar: "https://scholar.google.com/citations?user=ukaTvisAAAAJ"
+  github: "https://github.com/chenweilong915"
+  email: "chenweilong921@gmail.com"
+  linkedin: "https://linkedin.com/in/weilong-chen"
+  
+# 统计配置 / Analytics Configuration
+analytics:
+  enable_visitor_stats: true
+  enable_realtime_stats: true
+  update_frequency: "daily"  # daily, weekly, monthly
+  
+# 评论系统配置 / Comments System Configuration
+comments:
+  provider: "formspree"  # staticman, formspree, disqus
+  formspree:
+    form_id: "mqadwkol"
+    email_notifications: true
+    
+# 多语言内容配置 / Multilingual Content Configuration
+content:
+  show_bilingual: true
+  default_language: "zh"
+  gray_secondary_language: true  # 将次要语言显示为灰色
+  
+# 网站功能配置 / Site Features Configuration
+features:
+  google_scholar_integration: true
+  github_stats: true
+  visitor_counter: true
+  real_time_stats: true
+  contact_form: true
+  academic_timeline: true
