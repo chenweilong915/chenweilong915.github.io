@@ -1,0 +1,120 @@
+---
+layout: null
+sitemap:
+  exclude: 'yes'
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <!-- 主页 / Homepage -->
+  <url>
+    <loc>{{ site.url }}/</loc>
+    <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    
+    <!-- 多语言链接 / Multilingual Links -->
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="{{ site.url }}/" />
+    <xhtml:link rel="alternate" hreflang="en-US" href="{{ site.url }}/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="{{ site.url }}/" />
+  </url>
+
+  <!-- 主要锚点页面 / Main Anchor Sections -->
+  <url>
+    <loc>{{ site.url }}/#about-me</loc>
+    <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+  <url>
+    <loc>{{ site.url }}/#educations</loc>
+    <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>{{ site.url }}/#research</loc>
+    <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+  <url>
+    <loc>{{ site.url }}/#news</loc>
+    <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>{{ site.url }}/#honors-and-awards</loc>
+    <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>{{ site.url }}/#work-experience</loc>
+    <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>{{ site.url }}/#invited-talks</loc>
+    <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>{{ site.url }}/#publications</loc>
+    <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+  <url>
+    <loc>{{ site.url }}/#guestbook</loc>
+    <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>{{ site.url }}/#site-stats</loc>
+    <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.4</priority>
+  </url>
+
+  <!-- 其他页面 / Other Pages -->
+  {% for page in site.pages %}
+    {% unless page.sitemap.exclude == "yes" or page.name == "404.html" %}
+      <url>
+        <loc>{{ site.url }}{{ page.url | remove: "index.html" }}</loc>
+        {% if page.sitemap.lastmod %}
+          <lastmod>{{ page.sitemap.lastmod | date_to_xmlschema }}</lastmod>
+        {% elsif page.date %}
+          <lastmod>{{ page.date | date_to_xmlschema }}</lastmod>
+        {% else %}
+          <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
+        {% endif %}
+        {% if page.sitemap.changefreq %}
+          <changefreq>{{ page.sitemap.changefreq }}</changefreq>
+        {% else %}
+          <changefreq>monthly</changefreq>
+        {% endif %}
+        {% if page.sitemap.priority %}
+          <priority>{{ page.sitemap.priority }}</priority>
+        {% else %}
+          <priority>0.5</priority>
+        {% endif %}
+      </url>
+    {% endunless %}
+  {% endfor %}
+
+</urlset>

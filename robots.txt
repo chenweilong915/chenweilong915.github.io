@@ -1,0 +1,42 @@
+User-agent: *
+Allow: /
+
+# 允许所有主要搜索引擎爬虫 / Allow all major search engine crawlers
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Baiduspider
+Allow: /
+
+User-agent: YandexBot
+Allow: /
+
+User-agent: facebookexternalhit
+Allow: /
+
+User-agent: Twitterbot
+Allow: /
+
+# 禁止访问的目录 / Disallow certain directories
+Disallow: /assets/js/
+Disallow: /_sass/
+Disallow: /scripts/
+Disallow: /.github/
+Disallow: /docs/
+Disallow: /google_scholar_crawler/
+
+# 允许访问重要文件 / Allow important files
+Allow: /assets/css/
+Allow: /assets/fonts/
+Allow: /assets/data/
+Allow: /images/
+Allow: /files/
+
+# 网站地图位置 / Sitemap location
+Sitemap: https://chenweilong915.github.io/sitemap.xml
+
+# 爬取延迟 / Crawl delay (可选)
+# Crawl-delay: 1

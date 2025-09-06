@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "陈伟龙 / Weilong Chen"
+title                    : "陈维龙 / Weilong Chen"
 description              : "电子科技大学博士生，专注于智能电网与AI研究 / Ph.D. student at UESTC, focusing on Smart Grid and AI research"
 repository               : "chenweilong915/chenweilong915.github.io"
 google_scholar_stats_use_cdn : true
@@ -28,9 +28,35 @@ google_site_verification :  # get google_site_verification from https://search.g
 bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
 baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
+# 结构化数据 / Structured Data for SEO
+structured_data:
+  type: "Person"
+  name: "陈维龙 / Weilong Chen"
+  alternateName: 
+    - "陈伟龙"
+    - "维龙" 
+    - "Weilong"
+    - "Chen Weilong"
+    - "Wei-long Chen"
+  jobTitle: "博士研究生 / PhD Student"
+  affiliation: "电子科技大学 / University of Electronic Science and Technology of China"
+  address: "成都市，四川省，中国 / Chengdu, Sichuan, China"
+  alumniOf: "电子科技大学 / University of Electronic Science and Technology of China"
+  knowsAbout: 
+    - "智能电网 / Smart Grid"
+    - "人工智能 / Artificial Intelligence" 
+    - "机器学习 / Machine Learning"
+    - "联邦学习 / Federated Learning"
+    - "深度学习 / Deep Learning"
+    - "时间序列分析 / Time Series Analysis"
+  sameAs:
+    - "https://scholar.google.com/citations?user=ukaTvisAAAAJ"
+    - "https://github.com/chenweilong915"
+    - "https://chenweilong915.github.io"
+
 # Site Author
 author:
-  name             : "陈伟龙 / Weilong Chen"
+  name             : "陈维龙 / Weilong Chen"
   avatar           : "images/18598907.png"
   bio              : "电子科技大学 / University of Electronic Science and Technology of China"
   location         : "成都，中国 / Chengdu, China"
@@ -179,7 +205,7 @@ date_format: "%Y年%m月%d日"
 languages:
   zh:
     name: "中文"
-    title: "陈伟龙的学术主页"
+    title: "陈维龙的学术主页"
     description: "电子科技大学博士生，专注于智能电网与AI研究"
     navigation:
       about: "关于我"
@@ -210,8 +236,62 @@ languages:
 
 # 网站元信息 / Site Meta Information
 meta:
-  keywords: "陈伟龙,Weilong Chen,电子科技大学,UESTC,智能电网,Smart Grid,AI,机器学习,Machine Learning,联邦学习,Federated Learning,博士生,PhD Student"
-  author_keywords: "研究者,学者,博士生,人工智能,智能电网,Researcher,Scholar,PhD Student,Artificial Intelligence,Smart Grid"
+  keywords: "陈维龙,陈伟龙,维龙,Weilong Chen,Weilong,Chen Weilong,Chen,电子科技大学,UESTC,University of Electronic Science and Technology of China,智能电网,Smart Grid,AI,人工智能,Artificial Intelligence,机器学习,Machine Learning,联邦学习,Federated Learning,博士生,PhD Student,PhD,博士,成都,Chengdu,四川,Sichuan,中国,China,研究生,Graduate Student,计算机科学,Computer Science,电气工程,Electrical Engineering,张彦如,Yanru Zhang,韩竹,Zhu Han,休斯顿大学,University of Houston,访问学者,Visiting Scholar,IEEE,ACM,论文,Paper,Research,研究,学术,Academic,Scholar,Google Scholar,GitHub,ResearchGate,DBLP,ORCID"
+  author_keywords: "陈维龙,陈伟龙,维龙,Weilong Chen,Weilong,Chen Weilong,研究者,学者,博士生,博士,人工智能专家,智能电网专家,机器学习研究员,联邦学习,电子科技大学博士,UESTC PhD,Researcher,Scholar,PhD Student,PhD Candidate,Artificial Intelligence Researcher,Smart Grid Expert,Machine Learning Researcher,Federated Learning Specialist,Computer Scientist,Electrical Engineer"
+  
+# SEO优化关键词 / SEO Optimization Keywords  
+seo:
+  primary_keywords: 
+    - "陈维龙"
+    - "陈伟龙" 
+    - "维龙"
+    - "Weilong Chen"
+    - "Weilong"
+    - "Chen Weilong"
+    - "Weilong Chen UESTC"
+    - "陈维龙 电子科技大学"
+    - "陈伟龙 UESTC"
+  
+  academic_keywords:
+    - "Weilong Chen Smart Grid"
+    - "Weilong Chen AI"
+    - "Weilong Chen Machine Learning"
+    - "Weilong Chen Federated Learning"
+    - "陈维龙 智能电网"
+    - "陈维龙 人工智能"
+    - "陈维龙 机器学习"
+    - "陈维龙 联邦学习"
+    - "Weilong Chen UESTC PhD"
+    - "Weilong Chen University of Electronic Science and Technology"
+    - "Weilong Chen IEEE"
+    - "Weilong Chen ACM"
+    - "Weilong Chen Google Scholar"
+    - "陈维龙 博士"
+    - "陈维龙 研究生"
+    
+  research_keywords:
+    - "Weilong Chen publications"
+    - "Weilong Chen papers"
+    - "Weilong Chen research"
+    - "Weilong Chen TSG"
+    - "Weilong Chen TKDE"
+    - "Weilong Chen TMC"
+    - "陈维龙 论文"
+    - "陈维龙 研究"
+    - "陈维龙 发表"
+    - "Weilong Chen Yanru Zhang"
+    - "Weilong Chen Zhu Han"
+    - "Weilong Chen University of Houston"
+    
+  location_keywords:
+    - "Weilong Chen Chengdu"
+    - "Weilong Chen Sichuan"
+    - "Weilong Chen China"
+    - "陈维龙 成都"
+    - "陈维龙 四川"
+    - "陈维龙 中国"
+    - "UESTC Weilong Chen"
+    - "电子科技大学 陈维龙"
   
 # 社交媒体配置 / Social Media Configuration  
 social:
