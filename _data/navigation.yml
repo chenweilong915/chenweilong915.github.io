@@ -28,4 +28,4 @@ main:
     url: "/#publications"
 
   - title: "Guestbook"
-    url: "/guestbook/"
+    url: "/#guestbook"
