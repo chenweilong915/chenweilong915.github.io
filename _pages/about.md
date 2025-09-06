@@ -100,13 +100,6 @@ redirect_from:
 - *2020*: 🎓 电子科技大学三等奖学金 / <span style="color: gray;">Third-Class Scholarship, UESTC</span>
 - *2019*: 🥇 第一名 / <span style="color: gray;">1st Place, ACM WSDM Cup 2019</span>
 
-<span class='anchor' id='invited-talks'></span>
-
-# 💬 受邀报告 / <span style="color: gray;">Invited Talks</span>
-
-- *2024.01*, 🎤 **AIGC教程：扩散模型介绍** / <span style="color: gray;">**AIGC Tutorial: An Introduction to Diffusion Model**, University of Houston, Texas, USA</span>  
-  [🎥 视频链接/Video Link](https://www.youtube.com/watch?v=43AaufBaNKQ)
-
 <span class='anchor' id='work-experience'></span>
 
 # 💻 工作经历 / <span style="color: gray;">Work Experience</span>
@@ -130,6 +123,15 @@ redirect_from:
     
   - **低活用户优化** / <span style="color: gray;">**Low-activity User Optimization**</span>：针对低活跃用户实施多种策略，设计模型模块嵌入原始推荐模型以减少偏差，通过嵌入融合的MetaId增强用户画像提高模型准确性。次日用户留存率提升**0.6%**。  
     <span style="color: gray;">Implemented multiple strategies for low-activity users, designed model modules embedded in original recommendation model to reduce bias, enhanced user profiles through embedding fusion MetaId to improve model accuracy. Achieved **0.6%** increase in next-day user retention.</span>  
+
+<span class='anchor' id='invited-talks'></span>
+
+# 💬 受邀报告 / <span style="color: gray;">Invited Talks</span>
+
+- *2024.01*, 🎤 **AIGC教程：扩散模型介绍** / <span style="color: gray;">**AIGC Tutorial: An Introduction to Diffusion Model**, University of Houston, Texas, USA</span>  
+  [🎥 视频链接/Video Link](https://www.youtube.com/watch?v=43AaufBaNKQ)
+
+
 
 
 <span class='anchor' id='publications'></span>
