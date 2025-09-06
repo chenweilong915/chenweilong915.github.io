@@ -8,8 +8,17 @@
 # Site Settings
 title                    : "Weilong Chen"
 description              : "I am Weilong Chen, a Ph.D. student in UESTC."
-repository               : "chenweilong915/chenweilong.github.io"
+repository               : "chenweilong915/chenweilong915.github.io"
 google_scholar_stats_use_cdn : true
+
+# Comments (Staticman)
+staticman:
+  branch: "main"
+
+# reCaptcha (for spam protection)
+reCaptcha:
+  siteKey: "6LeIrSQUAAAAAKnBz0K9xZJr_dGnLHsz-PEE9Gq_"
+  secret: "6LeIrSQUAAAAAKnBz0K9xZJr_dGnLHsz-PEE9Gq_"
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/

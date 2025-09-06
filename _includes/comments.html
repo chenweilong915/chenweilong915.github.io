@@ -1,0 +1,222 @@
+{% if site.repository and site.staticman.branch %}
+<section id="static-comments">
+  <!-- Static comments -->
+  {% if site.data.comments[page.slug] %}
+    <div class="entries">
+      {% assign comments = site.data.comments[page.slug] | sort %}
+      {% for comment in comments %}
+        {% assign commentData = comment[1] %}
+        <article id="{{ comment[0] }}" class="comment">
+          <header class="comment__header">
+            <div class="comment__author">
+              {% if commentData.url %}
+                <a rel="external nofollow" href="{{ commentData.url }}">{{ commentData.name }}</a>
+              {% else %}
+                {{ commentData.name }}
+              {% endif %}
+            </div>
+            <time class="comment__date" datetime="{{ commentData.date | date_to_xmlschema }}">
+              {{ commentData.date | date: "%B %d, %Y at %I:%M %p" }}
+            </time>
+          </header>
+          <div class="comment__content">
+            {{ commentData.message | markdownify }}
+          </div>
+        </article>
+      {% endfor %}
+    </div>
+  {% endif %}
+
+  <!-- New comment form -->
+  {% unless page.comments_locked == true %}
+    <div class="new-comment">
+      <h3>留言 / Leave a Comment</h3>
+      <form id="comment-form" class="js-form form" method="post" action="https://api.staticman.net/v3/entry/github/{{ site.repository }}/{{ site.staticman.branch }}/comments">
+        <fieldset>
+          <label for="comment-form-name">姓名 / Name <span class="required">*</span></label>
+          <input type="text" id="comment-form-name" name="fields[name]" required spellcheck="false" />
+        </fieldset>
+        <fieldset>
+          <label for="comment-form-email">邮箱 / Email <span class="required">*</span> <small>(不会公开显示)</small></label>
+          <input type="email" id="comment-form-email" name="fields[email]" required spellcheck="false" />
+        </fieldset>
+        <fieldset>
+          <label for="comment-form-url">网站 / Website <small>(可选)</small></label>
+          <input type="url" id="comment-form-url" name="fields[url]" spellcheck="false" />
+        </fieldset>
+        <fieldset>
+          <label for="comment-form-message">留言内容 / Message <span class="required">*</span></label>
+          <textarea type="text" rows="6" id="comment-form-message" name="fields[message]" required spellcheck="true"></textarea>
+        </fieldset>
+        <fieldset style="display:none;">
+          <input type="hidden" name="options[slug]" value="{{ page.slug | default: page.title | slugify }}" />
+          <input type="hidden" name="options[parent]" value="{{ page.slug | default: page.title | slugify }}" />
+          <input type="hidden" name="options[redirect]" value="{{ page.url | absolute_url }}#comment-submitted" />
+        </fieldset>
+        <fieldset>
+          <button type="submit" id="comment-form-submit" class="btn btn--large">提交留言 / Submit Comment</button>
+        </fieldset>
+      </form>
+    </div>
+    
+    <!-- Success message -->
+    <div id="comment-submitted" class="comment-success" style="display:none;">
+      <h3>留言提交成功！/ Comment Submitted!</h3>
+      <p>感谢您的留言，我会尽快查看并回复。/ Thank you for your comment. I'll review it soon.</p>
+    </div>
+  {% endunless %}
+</section>
+
+<style>
+.comment {
+  border: 1px solid #e5e5e5;
+  border-radius: 5px;
+  margin-bottom: 20px;
+  padding: 15px;
+  background-color: #fafafa;
+}
+
+.comment__header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+  border-bottom: 1px solid #eee;
+  padding-bottom: 10px;
+}
+
+.comment__author {
+  font-weight: bold;
+  color: #333;
+}
+
+.comment__date {
+  font-size: 0.85em;
+  color: #666;
+}
+
+.comment__content {
+  line-height: 1.6;
+  color: #444;
+}
+
+.new-comment {
+  margin-top: 30px;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  background-color: #f9f9f9;
+}
+
+.new-comment h3 {
+  margin-top: 0;
+  color: #333;
+  border-bottom: 2px solid #007acc;
+  padding-bottom: 10px;
+}
+
+.form fieldset {
+  margin-bottom: 15px;
+  border: none;
+  padding: 0;
+}
+
+.form label {
+  display: block;
+  margin-bottom: 5px;
+  font-weight: bold;
+  color: #333;
+}
+
+.form input, .form textarea {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 14px;
+  font-family: inherit;
+}
+
+.form input:focus, .form textarea:focus {
+  outline: none;
+  border-color: #007acc;
+  box-shadow: 0 0 5px rgba(0, 122, 204, 0.3);
+}
+
+.required {
+  color: #e74c3c;
+}
+
+.btn--large {
+  background-color: #007acc;
+  color: white;
+  padding: 12px 24px;
+  border: none;
+  border-radius: 4px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.btn--large:hover {
+  background-color: #005ea3;
+}
+
+.comment-success {
+  background-color: #d4edda;
+  border: 1px solid #c3e6cb;
+  border-radius: 5px;
+  padding: 15px;
+  margin-top: 20px;
+  color: #155724;
+}
+
+.comment-success h3 {
+  margin-top: 0;
+  color: #155724;
+}
+
+small {
+  font-size: 0.8em;
+  color: #666;
+}
+</style>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const form = document.getElementById('comment-form');
+  const submitButton = document.getElementById('comment-form-submit');
+  const successMessage = document.getElementById('comment-submitted');
+  
+  if (form) {
+    form.addEventListener('submit', function(e) {
+      submitButton.innerHTML = '提交中... / Submitting...';
+      submitButton.disabled = true;
+      
+      // 显示成功消息（实际的静态网站会重定向）
+      setTimeout(function() {
+        form.style.display = 'none';
+        successMessage.style.display = 'block';
+        
+        // 发送邮件通知（这里需要后端支持）
+        sendEmailNotification();
+      }, 1000);
+    });
+  }
+  
+  // 检查URL中是否包含comment-submitted锚点
+  if (window.location.hash === '#comment-submitted') {
+    if (successMessage) {
+      successMessage.style.display = 'block';
+      form.style.display = 'none';
+    }
+  }
+  
+  function sendEmailNotification() {
+    // 这里可以添加发送邮件的逻辑
+    // 由于是静态网站，通常需要使用第三方服务如Netlify Forms或Formspree
+    console.log('Email notification would be sent here');
+  }
+});
+</script>
+{% endif %}

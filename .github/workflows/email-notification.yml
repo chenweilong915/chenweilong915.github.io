@@ -1,0 +1,84 @@
+name: Email Notification for New Comments
+
+on:
+  push:
+    paths:
+      - '_data/comments/**'
+    branches: [ main ]
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Get latest comment
+      id: get-comment
+      run: |
+        # 获取最新的留言文件
+        LATEST_COMMENT=$(find _data/comments -name "*.yml" -type f -exec ls -t {} + | head -n 1)
+        if [ ! -z "$LATEST_COMMENT" ]; then
+          echo "comment-file=$LATEST_COMMENT" >> $GITHUB_OUTPUT
+          echo "Found new comment: $LATEST_COMMENT"
+        fi
+
+    - name: Parse comment data
+      id: parse-comment
+      if: steps.get-comment.outputs.comment-file
+      run: |
+        COMMENT_FILE="${{ steps.get-comment.outputs.comment-file }}"
+        if [ -f "$COMMENT_FILE" ]; then
+          # 解析YAML文件获取留言信息
+          NAME=$(grep "name:" "$COMMENT_FILE" | sed 's/name: *//' | tr -d '"')
+          EMAIL=$(grep "email:" "$COMMENT_FILE" | sed 's/email: *//' | tr -d '"')
+          MESSAGE=$(grep -A 10 "message:" "$COMMENT_FILE" | tail -n +2 | sed 's/^[[:space:]]*//')
+          DATE=$(grep "date:" "$COMMENT_FILE" | sed 's/date: *//' | tr -d '"')
+          
+          echo "commenter-name=$NAME" >> $GITHUB_OUTPUT
+          echo "commenter-email=$EMAIL" >> $GITHUB_OUTPUT
+          echo "comment-date=$DATE" >> $GITHUB_OUTPUT
+          
+          # 处理多行留言内容
+          echo "comment-message<<EOF" >> $GITHUB_OUTPUT
+          echo "$MESSAGE" >> $GITHUB_OUTPUT
+          echo "EOF" >> $GITHUB_OUTPUT
+        fi
+
+    - name: Send email notification
+      if: steps.parse-comment.outputs.commenter-name
+      uses: dawidd6/action-send-mail@v3
+      with:
+        server_address: smtp.gmail.com
+        server_port: 587
+        username: ${{ secrets.EMAIL_USERNAME }}
+        password: ${{ secrets.EMAIL_PASSWORD }}
+        subject: "🔔 新留言提醒 / New Comment Notification - 陈伟龙的个人网站"
+        to: chenweilong921@gmail.com
+        from: ${{ secrets.EMAIL_USERNAME }}
+        body: |
+          您好！您的个人网站收到了一条新留言：
+          
+          📝 留言者 / Commenter: ${{ steps.parse-comment.outputs.commenter-name }}
+          📧 邮箱 / Email: ${{ steps.parse-comment.outputs.commenter-email }}
+          📅 时间 / Date: ${{ steps.parse-comment.outputs.comment-date }}
+          
+          💬 留言内容 / Message:
+          ${{ steps.parse-comment.outputs.comment-message }}
+          
+          ---
+          
+          Hello! You have received a new comment on your personal website:
+          
+          📝 Commenter: ${{ steps.parse-comment.outputs.commenter-name }}
+          📧 Email: ${{ steps.parse-comment.outputs.commenter-email }}
+          📅 Date: ${{ steps.parse-comment.outputs.comment-date }}
+          
+          💬 Message:
+          ${{ steps.parse-comment.outputs.comment-message }}
+          
+          请访问您的网站查看完整留言 / Please visit your website to view the complete comment:
+          https://chenweilong915.github.io/guestbook/
+          
+          ---
+          此邮件由GitHub Actions自动发送 / This email is automatically sent by GitHub Actions

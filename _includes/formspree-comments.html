@@ -1,0 +1,248 @@
+<!-- Formspree Comments Form -->
+<section id="formspree-comments">
+  <div class="new-comment">
+    <h3>💬 留言板 / Leave a Message</h3>
+    <p>欢迎留言！我会在24小时内通过邮件回复。/ Welcome to leave a message! I will reply via email within 24 hours.</p>
+    
+    <form id="formspree-form" action="https://formspree.io/f/mqadwkol" method="POST">
+      <fieldset>
+        <label for="name">姓名 / Name <span class="required">*</span></label>
+        <input type="text" id="name" name="name" required />
+      </fieldset>
+      
+      <fieldset>
+        <label for="email">邮箱 / Email <span class="required">*</span></label>
+        <input type="email" id="email" name="email" required />
+      </fieldset>
+      
+      <fieldset>
+        <label for="subject">主题 / Subject</label>
+        <input type="text" id="subject" name="subject" placeholder="学术交流 / Academic Exchange" />
+      </fieldset>
+      
+      <fieldset>
+        <label for="message">留言内容 / Message <span class="required">*</span></label>
+        <textarea id="message" name="message" rows="6" required placeholder="请在这里写下您的留言..."></textarea>
+      </fieldset>
+      
+      <!-- Hidden fields for organization -->
+      <input type="hidden" name="_subject" value="🔔 新留言 - 陈伟龙的个人网站" />
+      <input type="hidden" name="_next" value="https://chenweilong915.github.io/guestbook/?submitted=true" />
+      <input type="hidden" name="_language" value="zh" />
+      
+      <fieldset>
+        <button type="submit" id="submit-btn">
+          📤 发送留言 / Send Message
+        </button>
+      </fieldset>
+    </form>
+    
+    <!-- Success message -->
+    <div id="success-message" style="display: none;">
+      <h4>✅ 留言发送成功！/ Message Sent Successfully!</h4>
+      <p>感谢您的留言！我已收到您的消息，会尽快回复。<br>
+      <span style="color: gray;">Thank you for your message! I have received it and will reply soon.</span></p>
+    </div>
+  </div>
+</section>
+
+<style>
+.new-comment {
+  max-width: 800px;
+  margin: 30px auto;
+  padding: 30px;
+  border: 1px solid #e1e5e9;
+  border-radius: 10px;
+  background: linear-gradient(135deg, #f8f9fa 0%, #ffffff 100%);
+  box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+}
+
+.new-comment h3 {
+  margin-top: 0;
+  color: #2c3e50;
+  border-bottom: 3px solid #3498db;
+  padding-bottom: 15px;
+  text-align: center;
+}
+
+.new-comment p {
+  text-align: center;
+  color: #7f8c8d;
+  margin-bottom: 25px;
+  line-height: 1.6;
+}
+
+#formspree-form fieldset {
+  margin-bottom: 20px;
+  border: none;
+  padding: 0;
+}
+
+#formspree-form label {
+  display: block;
+  margin-bottom: 8px;
+  font-weight: 600;
+  color: #34495e;
+  font-size: 14px;
+}
+
+#formspree-form input, 
+#formspree-form textarea {
+  width: 100%;
+  padding: 12px 15px;
+  border: 2px solid #ecf0f1;
+  border-radius: 8px;
+  font-size: 14px;
+  font-family: inherit;
+  transition: all 0.3s ease;
+  background-color: #ffffff;
+}
+
+#formspree-form input:focus, 
+#formspree-form textarea:focus {
+  outline: none;
+  border-color: #3498db;
+  box-shadow: 0 0 10px rgba(52, 152, 219, 0.2);
+  transform: translateY(-2px);
+}
+
+#formspree-form textarea {
+  resize: vertical;
+  min-height: 120px;
+}
+
+.required {
+  color: #e74c3c;
+  font-weight: bold;
+}
+
+#submit-btn {
+  background: linear-gradient(135deg, #3498db 0%, #2980b9 100%);
+  color: white;
+  padding: 15px 30px;
+  border: none;
+  border-radius: 8px;
+  font-size: 16px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  width: 100%;
+  text-transform: none;
+}
+
+#submit-btn:hover {
+  background: linear-gradient(135deg, #2980b9 0%, #1f618d 100%);
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(52, 152, 219, 0.3);
+}
+
+#submit-btn:active {
+  transform: translateY(0);
+}
+
+#success-message {
+  background: linear-gradient(135deg, #2ecc71 0%, #27ae60 100%);
+  color: white;
+  padding: 20px;
+  border-radius: 8px;
+  text-align: center;
+  margin-top: 20px;
+}
+
+#success-message h4 {
+  margin: 0 0 10px 0;
+  font-size: 18px;
+}
+
+#success-message p {
+  margin: 0;
+  line-height: 1.5;
+}
+
+/* 响应式设计 */
+@media (max-width: 768px) {
+  .new-comment {
+    margin: 20px 10px;
+    padding: 20px;
+  }
+  
+  .new-comment h3 {
+    font-size: 1.3em;
+  }
+  
+  #submit-btn {
+    padding: 12px 25px;
+    font-size: 14px;
+  }
+}
+
+/* 加载动画 */
+.loading {
+  opacity: 0.7;
+  pointer-events: none;
+}
+
+.loading #submit-btn {
+  background: #95a5a6;
+  cursor: not-allowed;
+}
+
+.loading #submit-btn::after {
+  content: " ⏳";
+}
+</style>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const form = document.getElementById('formspree-form');
+  const submitBtn = document.getElementById('submit-btn');
+  const successMessage = document.getElementById('success-message');
+  
+  // 检查URL参数是否显示成功消息
+  const urlParams = new URLSearchParams(window.location.search);
+  if (urlParams.get('submitted') === 'true') {
+    form.style.display = 'none';
+    successMessage.style.display = 'block';
+    
+    // 3秒后重新显示表单
+    setTimeout(() => {
+      form.style.display = 'block';
+      successMessage.style.display = 'none';
+      // 清除URL参数
+      window.history.replaceState({}, document.title, window.location.pathname);
+    }, 5000);
+  }
+  
+  // 表单提交处理
+  if (form) {
+    form.addEventListener('submit', function(e) {
+      // 添加加载状态
+      form.classList.add('loading');
+      submitBtn.innerHTML = '🔄 发送中... / Sending...';
+      
+      // 简单的表单验证增强
+      const name = document.getElementById('name').value.trim();
+      const email = document.getElementById('email').value.trim();
+      const message = document.getElementById('message').value.trim();
+      
+      if (!name || !email || !message) {
+        e.preventDefault();
+        alert('请填写所有必填字段 / Please fill in all required fields');
+        form.classList.remove('loading');
+        submitBtn.innerHTML = '📤 发送留言 / Send Message';
+        return;
+      }
+      
+      // 验证邮箱格式
+      const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+      if (!emailRegex.test(email)) {
+        e.preventDefault();
+        alert('请输入有效的邮箱地址 / Please enter a valid email address');
+        form.classList.remove('loading');
+        submitBtn.innerHTML = '📤 发送留言 / Send Message';
+        return;
+      }
+    });
+  }
+});
+</script>

@@ -18,7 +18,7 @@ main:
   - title: "Work Experience"
     url: "/#work-experience"
 
-    
+
   - title: "Invited Talks"
     url: "/#invited-talks"
 
@@ -26,3 +26,6 @@ main:
 
   - title: "Publications"
     url: "/#publications"
+
+  - title: "Guestbook"
+    url: "/guestbook/"
