@@ -23,9 +23,30 @@ redirect_from:
 
 I graduated from the Automation major at the University of Electronic Science and Technology of China (UESTC) in 2018 for my undergraduate degree, and in 2021 I obtained my Master's degree in Computer Science from the same university. I am currently pursuing the Ph.D. degree under the supervision of [Prof. Yanru Zhang](https://scholar.google.com/citations?user=6I1ytegAAAAJ&hl=en) with the School of Computer Science and Engineering, UESTC. My research interests include machine learning, federated learning, large language model and smart grid. I have published papers in top conferences such as ACM MM and journals such as TKDE, TSG, and TCSVT. I was a visiting scholar at the University of Houston under the supervision of [Prof. Zhu Han](http://www2.egr.uh.edu/~zhan2/) during 2023-2024.
 
-我的研究兴趣包括智能电网中的AI应用、推荐系统和机器学习中的多模态技术。我已发表26篇论文，总计<a href='https://scholar.google.com/citations?user=ukaTvisAAAAJ'>谷歌学术引用<strong><span id='total_cit'>140+</span></strong></a>次。
+我的研究兴趣包括智能电网中的AI应用、推荐系统和机器学习中的多模态技术。我已发表26篇论文，总计<a href='https://scholar.google.com/citations?user=ukaTvisAAAAJ'>谷歌学术引用<strong><span id='total_cit'>190+</span></strong></a>次。
 
 My research interest includes AI in smart grid, Recommendation, and Multi-modal in machine learning. I have published 26 papers with total <a href='https://scholar.google.com/citations?user=ukaTvisAAAAJ'>google scholar citations <strong><span id='total_cit'>140+</span></strong></a>.
+
+<span class='anchor' id='educations'></span>
+
+# 📖 教育经历 / Educations
+
+- *2021.09 – 至今*，电子信息博士，电子科技大学，成都，中国  
+  *2021.09 – Present*, Ph.D. in Electronic Information, University of Electronic Science and Technology of China (UESTC), Chengdu, China  
+  导师/Supervisor: [张彦如教授/Prof. Yanru Zhang](https://scholar.google.com/citations?user=6I1ytegAAAAJ&hl=en)
+
+- *2023.09 – 2024.09*，访问博士生，电气与计算机工程系，休斯顿大学，美国  
+  *2023.09 – 2024.09*, Visiting Ph.D. Student, Department of Electrical and Computer Engineering, University of Houston, USA  
+  导师/Supervisor: [韩竹教授/Prof. Zhu Han](http://www2.egr.uh.edu/~zhan2/) (IEEE/ACM Fellow)
+
+- *2018.09 – 2021.06*，计算机技术工程硕士，电子科技大学，成都，中国  
+  *2018.09 – 2021.06*, M.Eng. in Computer Technology, University of Electronic Science and Technology of China (UESTC), Chengdu, China  
+  导师/Supervisor: [周涛教授/Prof. Tao Zhou](https://scholar.google.com/citations?user=MXgWgmEAAAAJ&hl=en)
+
+- *2014.03 – 2018.10*，自动化工学学士，电子科技大学，成都，中国  
+  *2014.03 – 2018.10*, B.Eng. in Automation, University of Electronic Science and Technology of China (UESTC), Chengdu, China
+
+<span class='anchor' id='research'></span>
 
 # 🔍 研究方向 / Research
 
@@ -36,7 +57,12 @@ My research interest currently focuses on:
 - 智能电网应用中的多模态和大语言模型 / Multi-modal and Large Language Models in smart grid applications  
 - 时间序列分析 / Time series analysis
 
+<span class='anchor' id='news'></span>
+
 # 🔥 最新动态 / News
+
+* *2025.09*: &nbsp;🎉🎉 我们的两篇论文被顶级期刊录用！**"Semantic Communication based on Large Language Model for Underwater Image Transmission"**被*IEEE Transactions on Mobile Computing (TMC)* (**🏆CCF A类，中科院一区**)录用，**"Large Language Model for Socio-Aware Load Forecasting"**被*IEEE Transactions on Industrial Informatics (TII)* (**🏆中科院一区**)录用！  
+  Two of our papers have been accepted by top journals! **"Semantic Communication based on Large Language Model for Underwater Image Transmission"** accepted by *IEEE Transactions on Mobile Computing (TMC)* (**🏆CCF A, 中科院一区**), and **"Large Language Model for Socio-Aware Load Forecasting"** accepted by *IEEE Transactions on Industrial Informatics (TII)* (**🏆中科院一区**)!
 
 * *2025.05*: &nbsp;🎉🎉 我们的论文**"SocioDiff: A Socio-aware Diffusion Model for Residential Load Data Generation"**被*IEEE Transactions on Smart Grid* (**🏆顶级期刊，中科院一区**)录用！[[数据集和代码]](https://github.com/Intelligame/SocialDiff)  
   Our paper **"SocioDiff: A Socio-aware Diffusion Model for Residential Load Data Generation"** has been accepted by *IEEE Transactions on Smart Grid* (**🏆Top Journal, 中科院一区**)! [[dataset and code]](https://github.com/Intelligame/SocialDiff)
@@ -44,6 +70,7 @@ My research interest currently focuses on:
 - *2022.04*: 我们发布了一个很棒的仓库**[Awesome Energy LLM papers](https://github.com/chenweilong915/awesome_energy_LLM)**，专注于大语言模型在能源领域的应用。  
   We have released a awesome repo named **[Awesome Energy LLM papers](https://github.com/chenweilong915/awesome_energy_LLM)**, focus on applications of LLMs in energy areas.
 
+<span class='anchor' id='honors-and-awards'></span>
 
 # 🎖 荣誉奖项 / Honors and Awards
 
@@ -73,27 +100,14 @@ My research interest currently focuses on:
 - *2020*: 🎓 电子科技大学三等奖学金 / Third-Class Scholarship, UESTC
 - *2019*: 🥇 第一名 / 1st Place, ACM WSDM Cup 2019
 
-# 📖 教育经历 / Educations
-
-- *2021.09 – 至今*，电子信息博士，电子科技大学，成都，中国  
-  *2021.09 – Present*, Ph.D. in Electronic Information, University of Electronic Science and Technology of China (UESTC), Chengdu, China  
-  导师/Supervisor: [张彦如教授/Prof. Yanru Zhang](https://scholar.google.com/citations?user=6I1ytegAAAAJ&hl=en)
-
-- *2023.09 – 2024.09*，访问博士生，电气与计算机工程系，休斯顿大学，美国  
-  *2023.09 – 2024.09*, Visiting Ph.D. Student, Department of Electrical and Computer Engineering, University of Houston, USA  
-  导师/Supervisor: [韩竹教授/Prof. Zhu Han](http://www2.egr.uh.edu/~zhan2/) (IEEE/ACM Fellow)
-
-- *2018.09 – 2021.06*，计算机技术工程硕士，电子科技大学，成都，中国  
-  *2018.09 – 2021.06*, M.Eng. in Computer Technology, University of Electronic Science and Technology of China (UESTC), Chengdu, China  
-  导师/Supervisor: [周涛教授/Prof. Tao Zhou](https://scholar.google.com/citations?user=MXgWgmEAAAAJ&hl=en)
-
-- *2014.03 – 2018.10*，自动化工学学士，电子科技大学，成都，中国  
-  *2014.03 – 2018.10*, B.Eng. in Automation, University of Electronic Science and Technology of China (UESTC), Chengdu, China
+<span class='anchor' id='invited-talks'></span>
 
 # 💬 受邀报告 / Invited Talks
 
 - *2024.01*, 🎤 **AIGC教程：扩散模型介绍** / **AIGC Tutorial: An Introduction to Diffusion Model**, University of Houston, Texas, USA  
   [🎥 视频链接/Video Link](https://www.youtube.com/watch?v=43AaufBaNKQ)
+
+<span class='anchor' id='work-experience'></span>
 
 # 💻 工作经历 / Work Experience
 
@@ -118,7 +132,7 @@ My research interest currently focuses on:
     Implemented multiple strategies for low-activity users, designed model modules embedded in original recommendation model to reduce bias, enhanced user profiles through embedding fusion MetaId to improve model accuracy. Achieved **0.6%** increase in next-day user retention.  
 
 
-
+<span class='anchor' id='publications'></span>
 
 # 📝 学术论文 / Publications
 
