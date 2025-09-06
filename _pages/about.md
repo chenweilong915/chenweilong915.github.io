@@ -245,3 +245,7 @@ redirect_from:
 - 留言会在审核后显示 / <span style="color: gray;">Comments will be displayed after moderation</span>
 - 我会通过邮件回复重要的留言 / <span style="color: gray;">I will reply to important messages via email</span>
 
+---
+
+{% include formspree-comments.html %}
+
