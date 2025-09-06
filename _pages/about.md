@@ -23,9 +23,9 @@ redirect_from:
 
 <span style="color: gray;">I graduated from the Automation major at the University of Electronic Science and Technology of China (UESTC) in 2018 for my undergraduate degree, and in 2021 I obtained my Master's degree in Computer Science from the same university. I am currently pursuing the Ph.D. degree under the supervision of [Prof. Yanru Zhang](https://scholar.google.com/citations?user=6I1ytegAAAAJ&hl=en) with the School of Computer Science and Engineering, UESTC. My research interests include machine learning, federated learning, large language model and smart grid. I have published papers in top conferences such as ACM MM and journals such as TKDE, TSG, and TCSVT. I was a visiting scholar at the University of Houston under the supervision of [Prof. Zhu Han](http://www2.egr.uh.edu/~zhan2/) during 2023-2024.</span>
 
-我的研究兴趣包括智能电网中的AI应用、推荐系统和机器学习中的多模态技术。我已发表26篇论文，总计<a href='https://scholar.google.com/citations?user=ukaTvisAAAAJ'>谷歌学术引用<strong><span id='total_cit'>190+</span></strong></a>次。
+我的研究兴趣包括智能电网中的AI应用、推荐系统和机器学习中的多模态技术。我已发表29篇论文，总计<a href='https://scholar.google.com/citations?user=ukaTvisAAAAJ'>谷歌学术引用<strong><span id='total_cit'>190+</span></strong></a>次。
 
-<span style="color: gray;">My research interest includes AI in smart grid, Recommendation, and Multi-modal in machine learning. I have published 26 papers with total <a href='https://scholar.google.com/citations?user=ukaTvisAAAAJ'>google scholar citations <strong><span id='total_cit'>190+</span></strong></a>.</span>
+<span style="color: gray;">My research interest includes AI in smart grid, Recommendation, and Multi-modal in machine learning. I have published 29 papers with total <a href='https://scholar.google.com/citations?user=ukaTvisAAAAJ'>google scholar citations <strong><span id='total_cit'>190+</span></strong></a>.</span>
 
 <span class='anchor' id='educations'></span>
 
