@@ -131,6 +131,38 @@ redirect_from:
 - *2024.01*, 🎤 **AIGC教程：扩散模型介绍** / <span style="color: gray;">**AIGC Tutorial: An Introduction to Diffusion Model**, University of Houston, Texas, USA</span>  
   [🎥 视频链接/Video Link](https://www.youtube.com/watch?v=43AaufBaNKQ)
 
+<span class='anchor' id='academic-services'></span>
+
+# 🎯 学术任职 / <span style="color: gray;">Academic Services</span>
+
+## 📋 程序委员会委员 / <span style="color: gray;">TPC Member</span>
+- **IEEE Global Communications Conference (GLOBECOM)** - Member of Technical Programming Committee, 2024  
+  <span style="color: gray;">Member of Technical Programming Committee of IEEE Global Communications Conference (GLOBECOM), 2024</span>
+
+## 📝 期刊审稿人 / <span style="color: gray;">Journal Reviewer</span>
+- **IEEE Journal of Selected Topics in Signal Processing (JSTSP)**, 2024, 2025  
+  <span style="color: gray;">IEEE Journal of Selected Topics in Signal Processing (JSTSP), 2024, 2025</span>
+- **IEEE Internet of Things Journal (IOTJ)**, 2025  
+  <span style="color: gray;">IEEE Internet of Things Journal (IOTJ), 2025</span>
+- **IEEE Transactions on Vehicular Technology (TVT)**, 2024  
+  <span style="color: gray;">IEEE Transactions on Vehicular Technology (TVT), 2024</span>
+- **IEEE Wireless Communication Letters (WCL)**, 2025  
+  <span style="color: gray;">IEEE Wireless Communication Letters (WCL), 2025</span>
+
+## 🎓 会议审稿人 / <span style="color: gray;">Conference Reviewer</span>
+- **Association for the Advancement of Artificial Intelligence (AAAI)**, 2025  
+  <span style="color: gray;">Association for the Advancement of Artificial Intelligence (AAAI), 2025</span>
+- **ACM Multimedia (ACM MM)**, 2023, 2024, 2025  
+  <span style="color: gray;">ACM Multimedia (ACM MM), 2023, 2024, 2025</span>
+- **IEEE Wireless Communications and Networking Conference (WCNC)**, 2024  
+  <span style="color: gray;">IEEE Wireless Communications and Networking Conference (WCNC), 2024</span>
+- **IEEE Global Communications Conference (GLOBECOM)**, 2024, 2025  
+  <span style="color: gray;">IEEE Global Communications Conference (GLOBECOM), 2024, 2025</span>
+- **IEEE International Conference on Computer Communications**, 2024  
+  <span style="color: gray;">IEEE International Conference on Computer Communications, 2024</span>
+- **IEEE Vehicular Technology Conference**, 2024  
+  <span style="color: gray;">IEEE Vehicular Technology Conference, 2024</span>
+
 
 
 
