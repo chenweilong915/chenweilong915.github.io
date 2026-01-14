@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "陈维龙 / Weilong Chen"
-description              : "电子科技大学博士生，专注于智能电网与AI研究 / Ph.D. student at UESTC, focusing on Smart Grid and AI research"
+description              : "电子科技大学博士后，专注于智能电网与AI研究 / Postdoctoral Fellow at UESTC, focusing on Smart Grid and AI research"
 repository               : "chenweilong915/chenweilong915.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -38,7 +38,7 @@ structured_data:
     - "Weilong"
     - "Chen Weilong"
     - "Wei-long Chen"
-  jobTitle: "博士研究生 / PhD Student"
+  jobTitle: "博士后 / Postdoctoral Fellow"
   affiliation: "电子科技大学 / University of Electronic Science and Technology of China"
   address: "成都市，四川省，中国 / Chengdu, Sichuan, China"
   alumniOf: "电子科技大学 / University of Electronic Science and Technology of China"
@@ -206,7 +206,7 @@ languages:
   zh:
     name: "中文"
     title: "陈维龙的学术主页"
-    description: "电子科技大学博士生，专注于智能电网与AI研究"
+    description: "电子科技大学博士后，专注于智能电网与AI研究"
     navigation:
       about: "关于我"
       educations: "教育经历"
@@ -221,7 +221,7 @@ languages:
   en:
     name: "English"
     title: "Weilong Chen's Academic Homepage"
-    description: "Ph.D. student at UESTC, focusing on Smart Grid and AI research"
+    description: "Postdoctoral Fellow at UESTC, focusing on Smart Grid and AI research"
     navigation:
       about: "About Me"
       educations: "Educations"
@@ -236,8 +236,8 @@ languages:
 
 # 网站元信息 / Site Meta Information
 meta:
-  keywords: "陈维龙,陈伟龙,维龙,Weilong Chen,Weilong,Chen Weilong,Chen,电子科技大学,UESTC,University of Electronic Science and Technology of China,智能电网,Smart Grid,AI,人工智能,Artificial Intelligence,机器学习,Machine Learning,联邦学习,Federated Learning,博士生,PhD Student,PhD,博士,成都,Chengdu,四川,Sichuan,中国,China,研究生,Graduate Student,计算机科学,Computer Science,电气工程,Electrical Engineering,张彦如,Yanru Zhang,韩竹,Zhu Han,休斯顿大学,University of Houston,访问学者,Visiting Scholar,IEEE,ACM,论文,Paper,Research,研究,学术,Academic,Scholar,Google Scholar,GitHub,ResearchGate,DBLP,ORCID"
-  author_keywords: "陈维龙,陈伟龙,维龙,Weilong Chen,Weilong,Chen Weilong,研究者,学者,博士生,博士,人工智能专家,智能电网专家,机器学习研究员,联邦学习,电子科技大学博士,UESTC PhD,Researcher,Scholar,PhD Student,PhD Candidate,Artificial Intelligence Researcher,Smart Grid Expert,Machine Learning Researcher,Federated Learning Specialist,Computer Scientist,Electrical Engineer"
+  keywords: "陈维龙,陈伟龙,维龙,Weilong Chen,Weilong,Chen Weilong,Chen,电子科技大学,UESTC,University of Electronic Science and Technology of China,智能电网,Smart Grid,AI,人工智能,Artificial Intelligence,机器学习,Machine Learning,联邦学习,Federated Learning,博士后,Postdoc,Postdoctoral Fellow,PhD,博士,成都,Chengdu,四川,Sichuan,中国,China,研究生,Graduate Student,计算机科学,Computer Science,电气工程,Electrical Engineering,张彦如,Yanru Zhang,韩竹,Zhu Han,休斯顿大学,University of Houston,访问学者,Visiting Scholar,IEEE,ACM,论文,Paper,Research,研究,学术,Academic,Scholar,Google Scholar,GitHub,ResearchGate,DBLP,ORCID"
+  author_keywords: "陈维龙,陈伟龙,维龙,Weilong Chen,Weilong,Chen Weilong,研究者,学者,博士后,Postdoc,博士,人工智能专家,智能电网专家,机器学习研究员,联邦学习,电子科技大学博士,UESTC PhD,Researcher,Scholar,Artificial Intelligence Researcher,Smart Grid Expert,Machine Learning Researcher,Federated Learning Specialist,Computer Scientist,Electrical Engineer"
   
 # SEO优化关键词 / SEO Optimization Keywords  
 seo:

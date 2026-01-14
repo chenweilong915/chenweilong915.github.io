@@ -19,20 +19,20 @@ redirect_from:
 
 # 关于我 / <span style="color: gray;">About Me</span>
 
-我于2018年获得电子科技大学自动化专业学士学位，2021年获得同校计算机科学硕士学位。目前在电子科技大学计算机科学与工程学院攻读博士学位，导师为[张彦如教授](https://scholar.google.com/citations?user=6I1ytegAAAAJ&hl=en)。我的研究兴趣包括机器学习、联邦学习、大语言模型和智能电网。我在ACM MM等顶级会议和TKDE、TSG、TCSVT等期刊上发表了多篇论文。2023-2024年期间，我在休斯顿大学[韩竹教授](http://www2.egr.uh.edu/~zhan2/)指导下担任访问学者。
+我于2018年获得电子科技大学自动化专业学士学位，2021年获得同校计算机科学硕士学位。2025年12月获得同校电子信息博士学位，导师为[张彦如教授](https://scholar.google.com/citations?user=6I1ytegAAAAJ&hl=en)。目前，我是电子科技大学的博士后。我的研究兴趣包括机器学习、大语言模型和智能电网。我在ACM MM等顶级会议和TKDE、TSG、TCSVT等期刊上发表了多篇论文。2023-2024年期间，我在休斯顿大学[韩竹教授](http://www2.egr.uh.edu/~zhan2/)指导下担任访问学者。
 
-<span style="color: gray;">I graduated from the Automation major at the University of Electronic Science and Technology of China (UESTC) in 2018 for my undergraduate degree, and in 2021 I obtained my Master's degree in Computer Science from the same university. I am currently pursuing the Ph.D. degree under the supervision of [Prof. Yanru Zhang](https://scholar.google.com/citations?user=6I1ytegAAAAJ&hl=en) with the School of Computer Science and Engineering, UESTC. My research interests include machine learning, federated learning, large language model and smart grid. I have published papers in top conferences such as ACM MM and journals such as TKDE, TSG, and TCSVT. I was a visiting scholar at the University of Houston under the supervision of [Prof. Zhu Han](http://www2.egr.uh.edu/~zhan2/) during 2023-2024.</span>
+<span style="color: gray;">I graduated from the Automation major at the University of Electronic Science and Technology of China (UESTC) in 2018 for my undergraduate degree, and in 2021 I obtained my Master's degree in Computer Science from the same university. In December 2025, I obtained my Ph.D. degree in Electronic Information from the same university, under the supervision of [Prof. Yanru Zhang](https://scholar.google.com/citations?user=6I1ytegAAAAJ&hl=en). Currently, I am a Postdoc at UESTC. My research interests include machine learning, federated learning, large language model and smart grid. I have published papers in top conferences such as ACM MM and journals such as TKDE, TSG, and TCSVT. I was a visiting scholar at the University of Houston under the supervision of [Prof. Zhu Han](http://www2.egr.uh.edu/~zhan2/) during 2023-2024.</span>
 
-我的研究兴趣包括智能电网中的AI应用、推荐系统和机器学习中的多模态技术。我已发表29篇论文，总计<a href='https://scholar.google.com/citations?user=ukaTvisAAAAJ'>谷歌学术引用<strong><span id='total_cit'>190+</span></strong></a>次。
+我的研究兴趣包括智能电网中的AI应用、推荐系统和机器学习中的多模态技术。我已发表30余篇论文，总计<a href='https://scholar.google.com/citations?user=ukaTvisAAAAJ'>谷歌学术引用<strong><span id='total_cit'>250+</span></strong></a>次。
 
-<span style="color: gray;">My research interest includes AI in smart grid, Recommendation, and Multi-modal in machine learning. I have published 29 papers with total <a href='https://scholar.google.com/citations?user=ukaTvisAAAAJ'>google scholar citations <strong><span id='total_cit'>190+</span></strong></a>.</span>
+<span style="color: gray;">My research interest includes AI in smart grid, Recommendation, and Multi-modal in machine learning. I have published 29 papers with total <a href='https://scholar.google.com/citations?user=ukaTvisAAAAJ'>google scholar citations <strong><span id='total_cit'>250+</span></strong></a>.</span>
 
 <span class='anchor' id='educations'></span>
 
 # 📖 教育经历 / <span style="color: gray;">Educations</span>
 
-- *2021.09 – 至今*，电子信息博士，电子科技大学，成都，中国  
-  <span style="color: gray;">*2021.09 – Present*, Ph.D. in Electronic Information, University of Electronic Science and Technology of China (UESTC), Chengdu, China</span>  
+- *2021.09 – 2025.12*，电子信息博士，电子科技大学，成都，中国  
+  <span style="color: gray;">*2021.09 – 2025.12*, Ph.D. in Electronic Information, University of Electronic Science and Technology of China (UESTC), Chengdu, China</span>  
   导师/Supervisor: [张彦如教授/Prof. Yanru Zhang](https://scholar.google.com/citations?user=6I1ytegAAAAJ&hl=en)
 
 - *2023.09 – 2024.09*，访问博士生，电气与计算机工程系，休斯顿大学，美国  
@@ -103,6 +103,8 @@ redirect_from:
 <span class='anchor' id='work-experience'></span>
 
 # 💻 工作经历 / <span style="color: gray;">Work Experience</span>
+
+- *2025.12 – 至今*，**博士后** / <span style="color: gray;">**Postdoc**，电子科技大学 / UESTC，成都，中国</span>
 
 - *2022.10 – 2023.09*，**高级算法工程师** / <span style="color: gray;">**Senior Algorithm Engineer**，TikTok (ByteDance)，北京，中国</span>  
   - **TikTok.M CapCut粗排优化** / <span style="color: gray;">**TikTok.M CapCut Coarse Ranking Optimization**</span>：对CapCut视频推荐链路进行全面分析，发现CapCut模板视频存在显著低估问题。通过调整value tree并重新设计训练链路目标，CC&TT的DAU提升**10.977%**，其中CapCut的DAU提升**9.527%**。  
